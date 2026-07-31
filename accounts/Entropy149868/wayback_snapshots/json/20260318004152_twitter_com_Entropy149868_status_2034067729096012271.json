@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034067720690606081",
+        "3_2034067725912547328",
+        "3_2034067720493535235",
+        "3_2034067719386206208"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2034067729096012271",
+    "created_at": "2026-03-18T00:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T01:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034067729096012271"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "陪聊"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "反差"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "门槛"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "小狗"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "巨乳"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "定制视频"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "文爱"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "线上"
+        },
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "电子女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ba28VAb8Sj",
+          "end": 104,
+          "expanded_url": "https://x.com/Entropy149868/status/2034067729096012271/photo/1",
+          "media_key": "3_2034067720690606081",
+          "start": 81,
+          "url": "https://t.co/ba28VAb8Sj"
+        },
+        {
+          "display_url": "pic.x.com/ba28VAb8Sj",
+          "end": 104,
+          "expanded_url": "https://x.com/Entropy149868/status/2034067729096012271/photo/1",
+          "media_key": "3_2034067725912547328",
+          "start": 81,
+          "url": "https://t.co/ba28VAb8Sj"
+        },
+        {
+          "display_url": "pic.x.com/ba28VAb8Sj",
+          "end": 104,
+          "expanded_url": "https://x.com/Entropy149868/status/2034067729096012271/photo/1",
+          "media_key": "3_2034067720493535235",
+          "start": 81,
+          "url": "https://t.co/ba28VAb8Sj"
+        },
+        {
+          "display_url": "pic.x.com/ba28VAb8Sj",
+          "end": 104,
+          "expanded_url": "https://x.com/Entropy149868/status/2034067729096012271/photo/1",
+          "media_key": "3_2034067719386206208",
+          "start": 81,
+          "url": "https://t.co/ba28VAb8Sj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034067729096012271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "更新一下，之前的一条作废。欢迎过我门槛！欢迎互转！\n#陪聊 #反差 #爸爸活 #妈妈活 #门槛 #门槛妹 #小狗 #巨乳 #定制视频 #文爱 #线上 #电子女友 https://t.co/ba28VAb8Sj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034067720690606081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDp10KTaIAEj6l4.jpg",
+        "width": 958
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034067725912547328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDp10dwaoAA8rWN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2034067720493535235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDp10JkbEAM9zvw.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2034067719386206208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDp10FcakAA2Hw5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034067720690606081",
+            "3_2034067725912547328",
+            "3_2034067720493535235",
+            "3_2034067719386206208"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2034067729096012271",
+        "created_at": "2026-03-18T00:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034067729096012271"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "陪聊"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "反差"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "门槛"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "小狗"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "巨乳"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "定制视频"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "文爱"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "线上"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ba28VAb8Sj",
+              "end": 104,
+              "expanded_url": "https://x.com/Entropy149868/status/2034067729096012271/photo/1",
+              "media_key": "3_2034067720690606081",
+              "start": 81,
+              "url": "https://t.co/ba28VAb8Sj"
+            },
+            {
+              "display_url": "pic.x.com/ba28VAb8Sj",
+              "end": 104,
+              "expanded_url": "https://x.com/Entropy149868/status/2034067729096012271/photo/1",
+              "media_key": "3_2034067725912547328",
+              "start": 81,
+              "url": "https://t.co/ba28VAb8Sj"
+            },
+            {
+              "display_url": "pic.x.com/ba28VAb8Sj",
+              "end": 104,
+              "expanded_url": "https://x.com/Entropy149868/status/2034067729096012271/photo/1",
+              "media_key": "3_2034067720493535235",
+              "start": 81,
+              "url": "https://t.co/ba28VAb8Sj"
+            },
+            {
+              "display_url": "pic.x.com/ba28VAb8Sj",
+              "end": 104,
+              "expanded_url": "https://x.com/Entropy149868/status/2034067729096012271/photo/1",
+              "media_key": "3_2034067719386206208",
+              "start": 81,
+              "url": "https://t.co/ba28VAb8Sj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034067729096012271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更新一下，之前的一条作废。欢迎过我门槛！欢迎互转！\n#陪聊 #反差 #爸爸活 #妈妈活 #门槛 #门槛妹 #小狗 #巨乳 #定制视频 #文爱 #线上 #电子女友 https://t.co/ba28VAb8Sj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol女同l查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2033881607426191581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 195,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 155
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

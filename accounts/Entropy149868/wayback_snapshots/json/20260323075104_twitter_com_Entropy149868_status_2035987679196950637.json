@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2035987679196950637",
+    "created_at": "2026-03-23T07:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035987679196950637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733255083440357376",
+          "start": 3,
+          "username": "8964_xy11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035987679196950637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035882880942084263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964_xy11: 不要再听摇滚了！摇滚乐是西方研制的新型鸦片！他们人往你的手机里安装炸药，当你听摇滚乐队时炸药就会被引燃，真是细思极恐！美国研发的ai编码机器人会自动播放甚至循环摇滚乐，不费任何人力就能让你的孩子上瘾。现在的孩子竟然听摇滚可见这已经毒害了青少年的心灵…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2035987679196950637",
+        "created_at": "2026-03-23T07:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035987679196950637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733255083440357376",
+              "start": 3,
+              "username": "8964_xy11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035987679196950637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035882880942084263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964_xy11: 不要再听摇滚了！摇滚乐是西方研制的新型鸦片！他们人往你的手机里安装炸药，当你听摇滚乐队时炸药就会被引燃，真是细思极恐！美国研发的ai编码机器人会自动播放甚至循环摇滚乐，不费任何人力就能让你的孩子上瘾。现在的孩子竟然听摇滚可见这已经毒害了青少年的心灵…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733255083440357376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2035882880942084263",
+        "created_at": "2026-03-23T00:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035882880942084263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035882880942084263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不要再听摇滚了！摇滚乐是西方研制的新型鸦片！他们人往你的手机里安装炸药，当你听摇滚乐队时炸药就会被引燃，真是细思极恐！美国研发的ai编码机器人会自动播放甚至循环摇滚乐，不费任何人力就能让你的孩子上瘾。现在的孩子竟然听摇滚可见这已经毒害了青少年的心灵，你的孩子已经失去了听流行口水歌的能力了！摇滚多有暴力元素，引导犯罪走向暴力，残害家人和朋友！让你的孩子有自残倾向！其实这些都是外国人的诡计！如果现在的青少年听的都是这种东西，以后我们的国家怎么会有栋梁之材？至于摇滚的根早已蔓延四方所以我们坚决摇滚乐，坚决抵制文化入侵！如果你认同我的看法，请转发出去，转告你的亲友，不要再听摇滚乐了抵制！！！！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不要再听摇滚了！摇滚乐是西方研制的新型鸦片！他们人往你的手机里安装炸药，当你听摇滚乐队时炸药就会被引燃，真是细思极恐！美国研发的ai编码机器人会自动播放甚至循环摇滚乐，不费任何人力就能让你的孩子上瘾。现在的孩子竟然听摇滚可见这已经毒害了青少年的心灵，你的孩子已经失去了听流行口水歌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 229,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 207
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "账号内容皆为虚构！如果让您感到不适我很抱歉！匿名提问箱可以给我发消息！私信都回！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye19652",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiye19652",
+                "start": 0,
+                "url": "https://t.co/j6vldLUAkw"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "Gladsheim ，Asgard",
+        "name": "曦夜今天吃什么",
+        "pinned_tweet_id": "2035209326462439482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032562522243645440/zofg4AZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 883,
+          "like_count": 46834,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/j6vldLUAkw",
+        "username": "8964_xy11",
+        "verified": true
+      }
+    ]
+  }
+}

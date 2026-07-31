@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2026870117012054368",
+    "created_at": "2026-02-27T10:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027334125921718447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1161138897566388224",
+          "start": 0,
+          "username": "Oatzo1"
+        },
+        {
+          "end": 20,
+          "id": "1687566770763071489",
+          "start": 8,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027334125921718447",
+    "in_reply_to_user_id": "1161138897566388224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026917362008732060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oatzo1 @Olebe179131 我O这个有快感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2026870117012054368",
+        "created_at": "2026-02-27T10:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027334125921718447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1161138897566388224",
+              "start": 0,
+              "username": "Oatzo1"
+            },
+            {
+              "end": 20,
+              "id": "1687566770763071489",
+              "start": 8,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027334125921718447",
+        "in_reply_to_user_id": "1161138897566388224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026917362008732060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oatzo1 @Olebe179131 我O这个有快感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161138897566388224",
+        "conversation_id": "2026870117012054368",
+        "created_at": "2026-02-26T07:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026917362008732060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026917362008732060",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026870117012054368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 真的有欣快感吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994944756208521216/y_uEvLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 42,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T04:54:20.000Z",
+        "description": "本人男！ip南京",
+        "id": "1161138897566388224",
+        "name": "Oatzo",
+        "pinned_tweet_id": "1975975549521768592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025954287923429376/2_bXnbGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 142,
+          "like_count": 950,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 461
+        },
+        "username": "Oatzo1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/赛博精神病/百合厨/二次元\n欢迎互关",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012345874899513344/DajrQh8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 270,
+          "like_count": 9499,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 992
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

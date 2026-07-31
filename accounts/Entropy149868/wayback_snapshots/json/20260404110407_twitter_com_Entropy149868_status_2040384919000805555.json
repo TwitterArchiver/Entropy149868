@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2040384919000805555",
+    "created_at": "2026-04-04T11:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040384919000805555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035035981242671106",
+          "start": 3,
+          "username": "MissLi1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040384919000805555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036366856966303892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MissLi1207: 武田药品工业ANETONE\n12t中含有50mg磷酸可待因水合物\n根据“吗啡毫克当量（MME）”换算标准，可待因与吗啡的转换系数通常在 0.1 到 0.15 之间。\n50mg × 0.10 = 5mg 吗啡\n50mg × 0.15 = 7.5mg…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2036366851794673664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKg3NGaIAAm7n-.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2036366854361600001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKg3WqaUAE1oWj.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2040384919000805555",
+        "created_at": "2026-04-04T11:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040384919000805555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035035981242671106",
+              "start": 3,
+              "username": "MissLi1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040384919000805555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036366856966303892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MissLi1207: 武田药品工业ANETONE\n12t中含有50mg磷酸可待因水合物\n根据“吗啡毫克当量（MME）”换算标准，可待因与吗啡的转换系数通常在 0.1 到 0.15 之间。\n50mg × 0.10 = 5mg 吗啡\n50mg × 0.15 = 7.5mg…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036366851794673664",
+            "3_2036366854361600001"
+          ]
+        },
+        "author_id": "2035035981242671106",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2036366856966303892",
+        "created_at": "2026-03-24T08:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036366856966303892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrYeVQeIWQ",
+              "end": 216,
+              "expanded_url": "https://x.com/MissLi1207/status/2036366856966303892/photo/1",
+              "media_key": "3_2036366851794673664",
+              "start": 193,
+              "url": "https://t.co/RrYeVQeIWQ"
+            },
+            {
+              "display_url": "pic.x.com/RrYeVQeIWQ",
+              "end": 216,
+              "expanded_url": "https://x.com/MissLi1207/status/2036366856966303892/photo/1",
+              "media_key": "3_2036366854361600001",
+              "start": 193,
+              "url": "https://t.co/RrYeVQeIWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036366856966303892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 6486,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "武田药品工业ANETONE\n12t中含有50mg磷酸可待因水合物\n根据“吗啡毫克当量（MME）”换算标准，可待因与吗啡的转换系数通常在 0.1 到 0.15 之间。\n50mg × 0.10 = 5mg 吗啡\n50mg × 0.15 = 7.5mg 吗啡\n吗啡一般用量是10mg。\n谨慎把握用量，od注意安全。\n严肃对待阿片类成瘾。\n淘口令：7( CZ4643 1LmgUAKo7xj/ https://t.co/RrYeVQeIWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 284,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 264
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T16:49:47.000Z",
+        "description": "分享一些好玩的药品，正在慢慢填坑。\n划到媒体全是药。\n庸医。",
+        "id": "2035035981242671106",
+        "name": "李小姐没有药8964",
+        "pinned_tweet_id": "2035278197680726055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035039117013393410/5Ocd_e7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 64,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 33
+        },
+        "username": "MissLi1207",
+        "verified": false
+      }
+    ]
+  }
+}

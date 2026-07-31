@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2047705227453985015",
+    "created_at": "2026-04-25T03:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047874434292498760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046995754498084864",
+          "start": 0,
+          "username": "Lizi__QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047874434292498760",
+    "in_reply_to_user_id": "2046995754498084864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047705227453985015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizi__QwQ 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2047705227453985015",
+        "created_at": "2026-04-25T03:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047874434292498760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046995754498084864",
+              "start": 0,
+              "username": "Lizi__QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047874434292498760",
+        "in_reply_to_user_id": "2046995754498084864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047705227453985015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizi__QwQ 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046995754498084864",
+        "conversation_id": "2047705227453985015",
+        "created_at": "2026-04-24T15:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047705227453985015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047705227453985015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 994,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛苦。我的痛苦无处发泄。即使是自伤，即使是嗑药……好痛苦。遍布伤痕的四肢，被药物搞坏的身体，这真的是我想要的吗……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 389,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 432
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T16:53:34.000Z",
+        "description": "od丨餐券丨海量帖子以及黑泥负能注意❗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/MyMz3qs4ez"
+              }
+            ]
+          }
+        },
+        "id": "2046995754498084864",
+        "location": "天國",
+        "name": "🌰 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202603084492800/bxzKb87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 102,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/MyMz3qs4ez",
+        "username": "Lizi__QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

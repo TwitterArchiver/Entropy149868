@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058178349302968320",
+        "3_2058178349596577792"
+      ],
+      "media_source_tweet_id": [
+        "2058178365950177637",
+        "2058178365950177637"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2058387223612166451",
+    "created_at": "2026-05-24T03:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058387223612166451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058175758041059328",
+          "start": 3,
+          "username": "Ta1zz19"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/alAS6XelVs",
+          "end": 58,
+          "expanded_url": "https://x.com/Ta1zz19/status/2058178365950177637/photo/1",
+          "media_key": "3_2058178349302968320",
+          "start": 35,
+          "url": "https://t.co/alAS6XelVs"
+        },
+        {
+          "display_url": "pic.x.com/alAS6XelVs",
+          "end": 58,
+          "expanded_url": "https://x.com/Ta1zz19/status/2058178365950177637/photo/1",
+          "media_key": "3_2058178349596577792",
+          "start": 35,
+          "url": "https://t.co/alAS6XelVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058387223612166451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058178365950177637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ta1zz19: 巡回互fo中 看到帮我转贴一下 呜呜呜呜😭 https://t.co/alAS6XelVs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058178349302968320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAeTdKacAARcvV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058178349596577792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAeTeQakAAmZh_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058178349302968320",
+            "3_2058178349596577792"
+          ],
+          "media_source_tweet_id": [
+            "2058178365950177637",
+            "2058178365950177637"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2058387223612166451",
+        "created_at": "2026-05-24T03:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058387223612166451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058175758041059328",
+              "start": 3,
+              "username": "Ta1zz19"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/alAS6XelVs",
+              "end": 58,
+              "expanded_url": "https://x.com/Ta1zz19/status/2058178365950177637/photo/1",
+              "media_key": "3_2058178349302968320",
+              "start": 35,
+              "url": "https://t.co/alAS6XelVs"
+            },
+            {
+              "display_url": "pic.x.com/alAS6XelVs",
+              "end": 58,
+              "expanded_url": "https://x.com/Ta1zz19/status/2058178365950177637/photo/1",
+              "media_key": "3_2058178349596577792",
+              "start": 35,
+              "url": "https://t.co/alAS6XelVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058387223612166451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058178365950177637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ta1zz19: 巡回互fo中 看到帮我转贴一下 呜呜呜呜😭 https://t.co/alAS6XelVs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058178349302968320",
+            "3_2058178349596577792"
+          ]
+        },
+        "author_id": "2058175758041059328",
+        "conversation_id": "2058178365950177637",
+        "created_at": "2026-05-23T13:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058178365950177637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alAS6XelVs",
+              "end": 45,
+              "expanded_url": "https://x.com/Ta1zz19/status/2058178365950177637/photo/1",
+              "media_key": "3_2058178349302968320",
+              "start": 22,
+              "url": "https://t.co/alAS6XelVs"
+            },
+            {
+              "display_url": "pic.x.com/alAS6XelVs",
+              "end": 45,
+              "expanded_url": "https://x.com/Ta1zz19/status/2058178365950177637/photo/1",
+              "media_key": "3_2058178349596577792",
+              "start": 22,
+              "url": "https://t.co/alAS6XelVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058178365950177637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "巡回互fo中 看到帮我转贴一下 呜呜呜呜😭 https://t.co/alAS6XelVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "精神病院",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 459,
+          "like_count": 1146,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 549
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T13:20:52.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/种植爱好者/心率不齐之人痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂也是阿片鬼\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/dYgLbqJIOL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 155,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 132,
+                "url": "https://t.co/dYgLbqJIOL"
+              }
+            ]
+          }
+        },
+        "id": "2058175758041059328",
+        "name": "Ta1z9（转生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058176733652889601/xdwUeUmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 11,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "Ta1zz19",
+        "verified": false
+      }
+    ]
+  }
+}

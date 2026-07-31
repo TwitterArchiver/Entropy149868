@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2027304178889191686",
+    "created_at": "2026-02-27T10:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027331038070837384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1327197298930028544",
+          "start": 0,
+          "username": "un_krvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027331038070837384",
+    "in_reply_to_user_id": "1327197298930028544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027304178889191686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@un_krvy 可以回一下私信么？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027304175961534465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJuaCvacAEIXpr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2027304178889191686",
+        "created_at": "2026-02-27T10:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027331038070837384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "un_krvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027331038070837384",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027304178889191686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@un_krvy 可以回一下私信么？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027304175961534465"
+          ]
+        },
+        "author_id": "1327197298930028544",
+        "conversation_id": "2027304178889191686",
+        "created_at": "2026-02-27T08:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027304178889191686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCOqFX7Fte",
+              "end": 31,
+              "expanded_url": "https://x.com/un_krvy/status/2027304178889191686/photo/1",
+              "media_key": "3_2027304175961534465",
+              "start": 8,
+              "url": "https://t.co/rCOqFX7Fte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027304178889191686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 899,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "桃子互联网医院 https://t.co/rCOqFX7Fte"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994944756208521216/y_uEvLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 42,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 54
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "https://t.co/sxGCC1hNAm 官方账号，专注于精神药物科普",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "Psydrugs official by krvy #​心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 217,
+          "like_count": 6190,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/sxGCC1hNAm",
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

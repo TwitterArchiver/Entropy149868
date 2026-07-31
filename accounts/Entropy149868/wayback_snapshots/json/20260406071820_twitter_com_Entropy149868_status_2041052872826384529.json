@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2041002814080790840",
+    "created_at": "2026-04-06T07:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T08:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041052872826384529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903459467230072832",
+          "start": 0,
+          "username": "LitorusReed"
+        },
+        {
+          "end": 21,
+          "id": "1886385501130866688",
+          "start": 13,
+          "username": "Lomyral"
+        },
+        {
+          "end": 34,
+          "id": "1997644719908884480",
+          "start": 22,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041052872826384529",
+    "in_reply_to_user_id": "1903459467230072832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041010528634707969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitorusReed @Lomyral @Oz_Garlandd 在这里也能看到李文亚教授"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2041002814080790840",
+        "created_at": "2026-04-06T07:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041052872826384529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903459467230072832",
+              "start": 0,
+              "username": "LitorusReed"
+            },
+            {
+              "end": 21,
+              "id": "1886385501130866688",
+              "start": 13,
+              "username": "Lomyral"
+            },
+            {
+              "end": 34,
+              "id": "1997644719908884480",
+              "start": 22,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041052872826384529",
+        "in_reply_to_user_id": "1903459467230072832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041010528634707969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitorusReed @Lomyral @Oz_Garlandd 在这里也能看到李文亚教授"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903459467230072832",
+        "conversation_id": "2041002814080790840",
+        "created_at": "2026-04-06T04:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041010528634707969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 21,
+              "id": "1886385501130866688",
+              "start": 13,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041010528634707969",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041007226098159634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd @Lomyral 那他妈叫迷奸（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 292,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 273
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T14:52:40.000Z",
+        "description": "三百年来伤国步\n八千里外吊民残",
+        "id": "1903459467230072832",
+        "location": "in terra longinqua…",
+        "name": "Historiacus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040943996101611520/YwE7uX_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 42,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 72
+        },
+        "username": "LitorusReed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 500,
+          "like_count": 39507,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 4786
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 80,
+          "like_count": 7978,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 520
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T14:52:40.000Z",
+        "description": "三百年来伤国步\n八千里外吊民残",
+        "id": "1903459467230072832",
+        "location": "in terra longinqua…",
+        "name": "Historiacus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040943996101611520/YwE7uX_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 42,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 72
+        },
+        "username": "LitorusReed",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2047967732424220971",
+    "created_at": "2026-04-25T13:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048038185637457953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940055088392982528",
+          "start": 0,
+          "username": "Kkkokoro366054"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048038185637457953",
+    "in_reply_to_user_id": "1940055088392982528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047988596783849856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kkkokoro366054 多出去走走，逛逛药店就行了，而且或许我有地理优势吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2047967732424220971",
+        "created_at": "2026-04-25T13:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048038185637457953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940055088392982528",
+              "start": 0,
+              "username": "Kkkokoro366054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048038185637457953",
+        "in_reply_to_user_id": "1940055088392982528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047988596783849856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kkkokoro366054 多出去走走，逛逛药店就行了，而且或许我有地理优势吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940055088392982528",
+        "conversation_id": "2047967732424220971",
+        "created_at": "2026-04-25T10:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047988596783849856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047988596783849856",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047967732424220971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 怎么做到的ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 390,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 440
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T14:29:21.000Z",
+        "description": "转生🍎，可以叫我苹果\n墙内cn见ID号，不要扒我qwq\n06/od/自残/双相/睡眠障碍/生理心理认同女/双性恋\n/互fo/欢迎相同的不同的宝宝来和我玩\n我不吸毒也不贩卖任何东西\n᧔ෆ᧓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%BB%A2%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%BB%A2%E7%94%9F%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB",
+                "start": 0,
+                "url": "https://t.co/D3c9rYfsFk"
+              }
+            ]
+          }
+        },
+        "id": "1940055088392982528",
+        "name": "ᶻz ₍^_ ̫ _^₎",
+        "pinned_tweet_id": "2044479790258987461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044473730177572865/feN5YyYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/D3c9rYfsFk",
+        "username": "Kkkokoro366054",
+        "verified": false
+      }
+    ]
+  }
+}

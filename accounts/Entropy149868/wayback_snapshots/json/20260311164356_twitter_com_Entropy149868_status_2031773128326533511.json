@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2031718525560299678",
+    "created_at": "2026-03-11T16:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031773128326533511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802704441961017344",
+          "start": 0,
+          "username": "hikawakaede3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031773128326533511",
+    "in_reply_to_user_id": "1802704441961017344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031718525560299678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikawakaede3 现在买这个会不会被晶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 548,
+        "media_key": "3_2031718519155609600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIdOonaUAA3xV5.jpg",
+        "width": 593
+      },
+      {
+        "height": 712,
+        "media_key": "3_2031718519143026688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIdOokaUAA6QH9.jpg",
+        "width": 1370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2031718525560299678",
+        "created_at": "2026-03-11T16:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031773128326533511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "hikawakaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031773128326533511",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031718525560299678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikawakaede3 现在买这个会不会被晶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031718519155609600",
+            "3_2031718519143026688"
+          ]
+        },
+        "author_id": "1802704441961017344",
+        "conversation_id": "2031718525560299678",
+        "created_at": "2026-03-11T13:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031718525560299678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6LFCzjCTrO",
+              "end": 52,
+              "expanded_url": "https://x.com/hikawakaede3/status/2031718525560299678/photo/1",
+              "media_key": "3_2031718519155609600",
+              "start": 29,
+              "url": "https://t.co/6LFCzjCTrO"
+            },
+            {
+              "display_url": "pic.x.com/6LFCzjCTrO",
+              "end": 52,
+              "expanded_url": "https://x.com/hikawakaede3/status/2031718525560299678/photo/1",
+              "media_key": "3_2031718519143026688",
+              "start": 29,
+              "url": "https://t.co/6LFCzjCTrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031718525560299678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1425,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来是dpt，总之我试图肌注，但是好害怕针扎不进去怎么办 https://t.co/6LFCzjCTrO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031261004290506752/gM3ipNJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 76,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 84
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2025.11.14 enby oder｜欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 狗猫：@PrimAsdue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "PrimAsdue"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "冰川枫🏳️‍⚧️#天车一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029333996317065216/UHUJborI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 794,
+          "like_count": 21857,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 6292
+        },
+        "username": "hikawakaede3",
+        "verified": false
+      }
+    ]
+  }
+}

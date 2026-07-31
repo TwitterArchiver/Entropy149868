@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025208309469319168"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2025208313768484969",
+    "created_at": "2026-02-21T13:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025208313768484969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rf2W7zz5HG",
+          "end": 31,
+          "expanded_url": "https://x.com/Entropy149868/status/2025208313768484969/photo/1",
+          "media_key": "3_2025208309469319168",
+          "start": 8,
+          "url": "https://t.co/Rf2W7zz5HG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025208313768484969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想药效过去 https://t.co/Rf2W7zz5HG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025208309469319168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBr8OjoWkAAOf7X.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025208309469319168"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2025208313768484969",
+        "created_at": "2026-02-21T13:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025208313768484969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rf2W7zz5HG",
+              "end": 31,
+              "expanded_url": "https://x.com/Entropy149868/status/2025208313768484969/photo/1",
+              "media_key": "3_2025208309469319168",
+              "start": 8,
+              "url": "https://t.co/Rf2W7zz5HG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025208313768484969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想药效过去 https://t.co/Rf2W7zz5HG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994944756208521216/y_uEvLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 38,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 32
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

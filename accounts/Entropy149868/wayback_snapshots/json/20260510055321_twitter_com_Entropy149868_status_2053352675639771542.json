@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2053154261048152498",
+    "created_at": "2026-05-10T05:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053352675639771542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1596328148077277184",
+          "start": 0,
+          "username": "odvs7f"
+        },
+        {
+          "end": 21,
+          "id": "2004245938534338566",
+          "start": 8,
+          "username": "A_Toygun_Piu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053352675639771542",
+    "in_reply_to_user_id": "1596328148077277184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053310764648481042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odvs7f @A_Toygun_Piu 什么鸟类泄殖腔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2053154261048152498",
+        "created_at": "2026-05-10T05:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053352675639771542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1596328148077277184",
+              "start": 0,
+              "username": "odvs7f"
+            },
+            {
+              "end": 21,
+              "id": "2004245938534338566",
+              "start": 8,
+              "username": "A_Toygun_Piu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053352675639771542",
+        "in_reply_to_user_id": "1596328148077277184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053310764648481042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odvs7f @A_Toygun_Piu 什么鸟类泄殖腔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596328148077277184",
+        "conversation_id": "2053154261048152498",
+        "created_at": "2026-05-10T03:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053310764648481042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004245938534338566",
+              "start": 0,
+              "username": "A_Toygun_Piu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053310764648481042",
+        "in_reply_to_user_id": "2004245938534338566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1011,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053154261048152498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_Toygun_Piu 我小时候以为生孩子尿尿大便都是同一个口🌚🌚上初中才知道大便是单独的一个口🌚去年才知道尿道和阴道不是同一个😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 451,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 514
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T02:21:12.000Z",
+        "description": "05 184",
+        "id": "1596328148077277184",
+        "location": "100m",
+        "name": "登登等登",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050601836663705603/rRikqyOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 20,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 71
+        },
+        "username": "odvs7f",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T17:40:58.000Z",
+        "description": "明天太阳照常升起。",
+        "id": "2004245938534338566",
+        "name": "Dejavu",
+        "pinned_tweet_id": "2050264006401941899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022719133998256128/RPk7xPb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 63,
+          "like_count": 4414,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1856
+        },
+        "username": "A_Toygun_Piu",
+        "verified": false
+      }
+    ]
+  }
+}

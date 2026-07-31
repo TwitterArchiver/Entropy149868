@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2034196208022118767",
+    "created_at": "2026-03-19T06:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T07:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034520611335327790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010022069891977216",
+          "start": 0,
+          "username": "geng_ju13382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034520611335327790",
+    "in_reply_to_user_id": "2010022069891977216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034448930663272530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geng_ju13382 直接搜二丙基色胺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2034196208022118767",
+        "created_at": "2026-03-19T06:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034520611335327790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010022069891977216",
+              "start": 0,
+              "username": "geng_ju13382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034520611335327790",
+        "in_reply_to_user_id": "2010022069891977216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034448930663272530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geng_ju13382 直接搜二丙基色胺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010022069891977216",
+        "conversation_id": "2034196208022118767",
+        "created_at": "2026-03-19T01:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034448930663272530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034448930663272530",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034196208022118767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 dpt在淘宝哪里买的…我也想买求链接😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 205,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 170
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T16:13:10.000Z",
+        "description": "我叫小钰，坐标上海，08年172/100，可以验证，接纯绿非绿线下，我很缺钱请多多关照呀🥺欢迎互转互fo捏",
+        "id": "2010022069891977216",
+        "location": "地狱",
+        "name": "桔梗",
+        "pinned_tweet_id": "2015328236537012606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010022591893757952/KMPL3HWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 71,
+          "like_count": 1188,
+          "listed_count": 4,
+          "media_count": 14,
+          "tweet_count": 348
+        },
+        "username": "geng_ju13382",
+        "verified": false
+      }
+    ]
+  }
+}

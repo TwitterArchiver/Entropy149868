@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042302349943930881"
+      ],
+      "media_source_tweet_id": [
+        "2042302352552788136"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2042435601937629389",
+    "created_at": "2026-04-10T02:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T03:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042435601937629389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823160336691982336",
+          "start": 3,
+          "username": "Hozheganma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ga8sYSBvP9",
+          "end": 46,
+          "expanded_url": "https://x.com/Hozheganma/status/2042302352552788136/photo/1",
+          "media_key": "3_2042302349943930881",
+          "start": 23,
+          "url": "https://t.co/Ga8sYSBvP9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042435601937629389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042302352552788136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hozheganma: 怎么没有吸毒 https://t.co/Ga8sYSBvP9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_2042302349943930881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFe3KqxagAEq4S2.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042302349943930881"
+          ],
+          "media_source_tweet_id": [
+            "2042302352552788136"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2042435601937629389",
+        "created_at": "2026-04-10T02:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042435601937629389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823160336691982336",
+              "start": 3,
+              "username": "Hozheganma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ga8sYSBvP9",
+              "end": 46,
+              "expanded_url": "https://x.com/Hozheganma/status/2042302352552788136/photo/1",
+              "media_key": "3_2042302349943930881",
+              "start": 23,
+              "url": "https://t.co/Ga8sYSBvP9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042435601937629389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042302352552788136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hozheganma: 怎么没有吸毒 https://t.co/Ga8sYSBvP9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042302349943930881"
+          ]
+        },
+        "author_id": "1823160336691982336",
+        "conversation_id": "2042302352552788136",
+        "created_at": "2026-04-09T18:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042302352552788136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ga8sYSBvP9",
+              "end": 30,
+              "expanded_url": "https://x.com/Hozheganma/status/2042302352552788136/photo/1",
+              "media_key": "3_2042302349943930881",
+              "start": 7,
+              "url": "https://t.co/Ga8sYSBvP9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042302352552788136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1278,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "怎么没有吸毒 https://t.co/Ga8sYSBvP9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 317,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 290
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "09高中在读/已经滚出精卫。。/oder💊/自伤🤕/友跨/durg&set/同类互fo/如果我的帖子影响到你的心情了我很抱歉/                 \n匿名聊天↓（话说真的有人来么）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingganmogu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lingganmogu",
+                "start": 0,
+                "url": "https://t.co/cNzWslTT8R"
+              }
+            ]
+          }
+        },
+        "id": "1823160336691982336",
+        "location": "天空",
+        "name": "沫依#Ng♓️（互fo喵）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 326,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/cNzWslTT8R",
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

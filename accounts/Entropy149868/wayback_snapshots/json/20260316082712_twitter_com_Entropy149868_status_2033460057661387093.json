@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2033460057661387093",
+    "created_at": "2026-03-16T08:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033460057661387093"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "上海"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1929840397465112576",
+          "start": 3,
+          "username": "puppykawayi33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033460057661387093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025236961515237462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puppykawayi33: 大家好呀 这里是puppy💗\n坐标上海 162 106斤\n语音验证5r 视频验证30r\n特价52过🚪+V \n300r开放朋友圈\n照片都是本人 \n线下女友约会 纯禄200r/h\n非禄520r/h 过夜5k2 \n请多多关照啦 🥺💗\n#上海 #爸…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033460057661387093].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033460057661387093",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033460057661387093"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025236946788982784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsWRd9aoAAZwTU.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2025236946784759809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsWRd8aMAEE7x0.jpg",
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025236946788982784",
+            "3_2025236946784759809"
+          ]
+        },
+        "author_id": "1929840397465112576",
+        "conversation_id": "2025236961515237462",
+        "created_at": "2026-02-21T15:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025236961515237462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "上海"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "门槛"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "女高中生"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "金主"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "萝莉"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "可爱"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "fyp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAO5tYqiEY",
+              "end": 173,
+              "expanded_url": "https://x.com/UniversalT5691/status/2025236961515237462/photo/1",
+              "media_key": "3_2025236946788982784",
+              "start": 150,
+              "url": "https://t.co/CAO5tYqiEY"
+            },
+            {
+              "display_url": "pic.x.com/CAO5tYqiEY",
+              "end": 173,
+              "expanded_url": "https://x.com/UniversalT5691/status/2025236961515237462/photo/1",
+              "media_key": "3_2025236946784759809",
+              "start": 150,
+              "url": "https://t.co/CAO5tYqiEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025236961515237462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 29059,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "大家好呀 这里是puppy💗\n坐标上海 162 106斤\n语音验证5r 视频验证30r\n特价52过🚪+V \n300r开放朋友圈\n照片都是本人 \n线下女友约会 纯禄200r/h\n非禄520r/h 过夜5k2 \n请多多关照啦 🥺💗\n#上海 #爸爸活 #门槛 #女高中生 #金主 #萝莉 #可爱 #fyp https://t.co/CAO5tYqiEY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol女同",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 174,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 140
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T09:59:56.000Z",
+        "description": "已过丑哥认证 支持口令和赞赏码 \n问问题带口令 自伤/od\n特价52基础🚪 到3月底结束\n300开放朋友圈加福利照片解锁线下",
+        "id": "1929840397465112576",
+        "location": "Columbia, TN",
+        "name": "puppy💕",
+        "pinned_tweet_id": "2025236961515237462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033407734486589440/C70ySoLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 28,
+          "like_count": 196,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 98
+        },
+        "username": "puppykawayi33",
+        "verified": false
+      }
+    ]
+  }
+}

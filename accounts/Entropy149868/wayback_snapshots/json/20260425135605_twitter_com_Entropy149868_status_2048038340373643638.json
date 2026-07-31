@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2047967732424220971",
+    "created_at": "2026-04-25T13:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048038340373643638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039375605389492225",
+          "start": 0,
+          "username": "weiaiwanfeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048038340373643638",
+    "in_reply_to_user_id": "2039375605389492225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047996163291521413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiaiwanfeng 城市小，物价低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2047967732424220971",
+        "created_at": "2026-04-25T13:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048038340373643638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039375605389492225",
+              "start": 0,
+              "username": "weiaiwanfeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048038340373643638",
+        "in_reply_to_user_id": "2039375605389492225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047996163291521413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiaiwanfeng 城市小，物价低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039375605389492225",
+        "conversation_id": "2047967732424220971",
+        "created_at": "2026-04-25T11:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047996163291521413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047996163291521413",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047967732424220971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 我线下买32！为啥这么便宜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 390,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 442
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T16:13:59.000Z",
+        "description": "oi 原来的号被封了新开的小号\n碎碎念｜可能算是一个正常人吧｜我喜欢晚风！🥰｜欢迎互fo（都来找我聊天好不好",
+        "id": "2039375605389492225",
+        "location": "🥰",
+        "name": "安安👻",
+        "pinned_tweet_id": "2047615227773264037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046189495436095488/CC2FYfAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 53,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 174
+        },
+        "username": "weiaiwanfeng",
+        "verified": false
+      }
+    ]
+  }
+}

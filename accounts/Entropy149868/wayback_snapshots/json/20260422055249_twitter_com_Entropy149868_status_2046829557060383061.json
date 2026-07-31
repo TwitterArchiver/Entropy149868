@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2046510696138252552",
+    "created_at": "2026-04-22T05:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T06:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046829557060383061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "QY404XYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046829557060383061",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046510696138252552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QY404XYN 应该骂李云齐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2046510696138252552",
+        "created_at": "2026-04-22T05:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046829557060383061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "QY404XYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046829557060383061",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046510696138252552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QY404XYN 应该骂李云齐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022181719835914242",
+        "conversation_id": "2046510696138252552",
+        "created_at": "2026-04-21T08:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046510696138252552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046510696138252552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2413,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在此声明一下，我刚才骂的是广州禁毒，而不是缉毒警，缉毒警值得每一个人尊重，而广州禁毒不配，某些类人型生物转发到别的群挂我已经涉嫌违法犯罪，如果情节特别恶劣我将报警，追究你们的法律责任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 387,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 421
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜狂躁易怒｜od｜自残｜中度强迫症｜重度抑郁焦虑 精神分裂 多重人格｜精神不稳定｜闺蜜 @QWQ73416 ｜长春の药娘王｜如果有事找我请加主页Q群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "QWQ73416"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "千夜404",
+        "pinned_tweet_id": "2046510696138252552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046810144194125824/qt2ygHER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4214,
+          "following_count": 208,
+          "like_count": 171,
+          "listed_count": 5,
+          "media_count": 52,
+          "tweet_count": 337
+        },
+        "username": "QY404XYN",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2034604803603697928",
+    "created_at": "2026-03-19T12:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034604803603697928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1827402825623912448",
+          "start": 3,
+          "username": "LovelySonu17293"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034604803603697928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034302823773696009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @LovelySonu17293: 可验证！（前号被恶人举报掉了，不是骗子）\n健身女 经济困难想赚零花钱QAQ\n接语音聊天、陪聊陪玩（pc 手游）🚪 188/288/520都有福利 私聊\n喜欢成熟稳重、会疼人的哥哥 温柔小御姐 会撒娇真心困难时期，希望遇到真正喜欢E酱、愿…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034604803603697928].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034604803603697928",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034604803603697928"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1496,
+        "media_key": "3_2034302809001357313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtLoGga8AEVxrp.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034302809013948416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtLoGjbEAAtl8g.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034302809039097856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtLoGpa0AAz1D9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1587,
+        "media_key": "3_2034302809018175488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtLoGkbkAAea19.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034302809001357313",
+            "3_2034302809013948416",
+            "3_2034302809039097856",
+            "3_2034302809018175488"
+          ]
+        },
+        "author_id": "1827402825623912448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2034302823773696009",
+        "created_at": "2026-03-18T16:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034302823773696009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "御姐"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "健身女"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfICtR8qGI",
+              "end": 176,
+              "expanded_url": "https://x.com/LovelySonu17293/status/2034302823773696009/photo/1",
+              "media_key": "3_2034302809001357313",
+              "start": 153,
+              "url": "https://t.co/vfICtR8qGI"
+            },
+            {
+              "display_url": "pic.x.com/vfICtR8qGI",
+              "end": 176,
+              "expanded_url": "https://x.com/LovelySonu17293/status/2034302823773696009/photo/1",
+              "media_key": "3_2034302809013948416",
+              "start": 153,
+              "url": "https://t.co/vfICtR8qGI"
+            },
+            {
+              "display_url": "pic.x.com/vfICtR8qGI",
+              "end": 176,
+              "expanded_url": "https://x.com/LovelySonu17293/status/2034302823773696009/photo/1",
+              "media_key": "3_2034302809039097856",
+              "start": 153,
+              "url": "https://t.co/vfICtR8qGI"
+            },
+            {
+              "display_url": "pic.x.com/vfICtR8qGI",
+              "end": 176,
+              "expanded_url": "https://x.com/LovelySonu17293/status/2034302823773696009/photo/1",
+              "media_key": "3_2034302809018175488",
+              "start": 153,
+              "url": "https://t.co/vfICtR8qGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034302823773696009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 135,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "可验证！（前号被恶人举报掉了，不是骗子）\n健身女 经济困难想赚零花钱QAQ\n接语音聊天、陪聊陪玩（pc 手游）🚪 188/288/520都有福利 私聊\n喜欢成熟稳重、会疼人的哥哥 温柔小御姐 会撒娇真心困难时期，希望遇到真正喜欢E酱、愿意支持我的哥哥们 #门槛妹  #门槛哥 #御姐  #健身女 ＃爸爸活 https://t.co/vfICtR8qGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 206,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 173
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T17:49:39.000Z",
+        "description": "21/171/117斤D（健身 腰细腿长 曲线在线）不冷暴力不白嫖 互相尊重最重要哦 福利vx欢迎宝宝们找我互fo互转",
+        "id": "1827402825623912448",
+        "location": "调教 vx🚪",
+        "name": "许愿池",
+        "pinned_tweet_id": "2034302823773696009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034302244791971840/IPL7OlAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "LovelySonu17293",
+        "verified": false
+      }
+    ]
+  }
+}

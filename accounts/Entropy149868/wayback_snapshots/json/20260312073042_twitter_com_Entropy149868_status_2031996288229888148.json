@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2031996288229888148",
+    "created_at": "2026-03-12T07:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T08:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031996288229888148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1901190687284178944",
+          "start": 3,
+          "username": "DLJDZXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031996288229888148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031593107737985055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DLJDZXZ: 200fo小抽奖来哩🥹\n感谢所有给我点赞、互动过的宝宝们😭\n关转评参与，25转开˃ ˄ ˂̥̥ \n①pr80（折20r）*1\n②愈美（折10r）*2\n③5.20*2\n\n为了认识更多朋友\n欢迎戳我交友聊天🥺\n（互fo们可以找我加微信扩列🥹❤️ https…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2031996288229888148].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2031996288229888148",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2031996288229888148"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031593102088327168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDGrKZob0AAC2FL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031593102088327168"
+          ]
+        },
+        "author_id": "1901190687284178944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2031593107737985055",
+        "created_at": "2026-03-11T04:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031593107737985055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RzBNX2TFXK",
+              "end": 144,
+              "expanded_url": "https://x.com/DLJDZXZ/status/2031593107737985055/photo/1",
+              "media_key": "3_2031593102088327168",
+              "start": 121,
+              "url": "https://t.co/RzBNX2TFXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031593107737985055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3439,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "200fo小抽奖来哩🥹\n感谢所有给我点赞、互动过的宝宝们😭\n关转评参与，25转开˃ ˄ ˂̥̥ \n①pr80（折20r）*1\n②愈美（折10r）*2\n③5.20*2\n\n为了认识更多朋友\n欢迎戳我交友聊天🥺\n（互fo们可以找我加微信扩列🥹❤️ https://t.co/RzBNX2TFXK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031261004290506752/gM3ipNJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 77,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 87
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T08:36:02.000Z",
+        "description": "可以叫我=p6e/小执❤️‍🩹BPD 顺女 性别解构主义 od/shtwt 线下0社交，边缘灯丝中。我好想和人交友聊天线下认识亲友一起玩...（但社交被动退缩）🤕let's talk!!❗自伤预警❗",
+        "id": "1901190687284178944",
+        "name": "P6E无限循环的现实",
+        "pinned_tweet_id": "2031911950234615911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031914566557573120/ET8VgqIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 193,
+          "like_count": 2253,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 349
+        },
+        "username": "DLJDZXZ",
+        "verified": false
+      }
+    ]
+  }
+}

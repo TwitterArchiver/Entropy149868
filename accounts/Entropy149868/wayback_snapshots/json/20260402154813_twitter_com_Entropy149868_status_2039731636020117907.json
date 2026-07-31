@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2039731636020117907",
+    "created_at": "2026-04-02T15:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039731636020117907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2029243756529238018",
+          "start": 3,
+          "username": "Kusutobi_7"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can view and join @NY_rc right away.",
+          "display_url": "t.me/NY_rc",
+          "end": 87,
+          "expanded_url": "http://t.me/NY_rc",
+          "start": 64,
+          "status": 200,
+          "title": "神秘小物质小摊",
+          "unwound_url": "https://t.me/NY_rc",
+          "url": "https://t.co/v8pIlAXBV4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039731636020117907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039568282886255024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kusutobi_7: 这里是楠鸢炸号6次回归的个人账号\n互关寻回中😢\n产品需求可私信tg或x 群组有产品介绍\ntg群：https://t.co/v8pIlAXBV4\n这个号目前只会发发知识科普和我的日常内容 欢迎互fo互动🤓\n群组是聊天群欢迎讨论交流也可以打群组电话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2039731636020117907",
+        "created_at": "2026-04-02T15:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039731636020117907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2029243756529238018",
+              "start": 3,
+              "username": "Kusutobi_7"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can view and join @NY_rc right away.",
+              "display_url": "t.me/NY_rc",
+              "end": 87,
+              "expanded_url": "http://t.me/NY_rc",
+              "start": 64,
+              "status": 200,
+              "title": "神秘小物质小摊",
+              "unwound_url": "https://t.me/NY_rc",
+              "url": "https://t.co/v8pIlAXBV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039731636020117907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039568282886255024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kusutobi_7: 这里是楠鸢炸号6次回归的个人账号\n互关寻回中😢\n产品需求可私信tg或x 群组有产品介绍\ntg群：https://t.co/v8pIlAXBV4\n这个号目前只会发发知识科普和我的日常内容 欢迎互fo互动🤓\n群组是聊天群欢迎讨论交流也可以打群组电话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029243756529238018",
+        "conversation_id": "2039568282886255024",
+        "created_at": "2026-04-02T04:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039568282886255024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @NY_rc right away.",
+              "display_url": "t.me/NY_rc",
+              "end": 71,
+              "expanded_url": "http://t.me/NY_rc",
+              "start": 48,
+              "status": 200,
+              "title": "神秘小物质小摊",
+              "unwound_url": "https://t.me/NY_rc",
+              "url": "https://t.co/v8pIlAXBV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039568282886255024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这里是楠鸢炸号6次回归的个人账号\n互关寻回中😢\n产品需求可私信tg或x 群组有产品介绍\ntg群：https://t.co/v8pIlAXBV4\n这个号目前只会发发知识科普和我的日常内容 欢迎互fo互动🤓\n群组是聊天群欢迎讨论交流也可以打群组电话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 257,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 243
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T17:13:25.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/可咨询药物或者产品问题/被封四次了详细产品咨询清私信/问题咨询https://t.co/cyNJPUUD8w /只发发日常或者有关NY化学的内容",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kusutobi",
+                "end": 103,
+                "expanded_url": "https://ngl.link/kusutobi",
+                "start": 80,
+                "url": "https://t.co/cyNJPUUD8w"
+              }
+            ]
+          }
+        },
+        "id": "2029243756529238018",
+        "name": "Kusutobi",
+        "pinned_tweet_id": "2039568282886255024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033949396233072641/zRZ6XmJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 16,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "username": "Kusutobi_7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2039667934046630217",
+    "created_at": "2026-04-02T11:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039667934046630217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1594951264109928448",
+          "start": 3,
+          "username": "MiniGoatYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039667934046630217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039462469450838017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiniGoatYY: 我看未必\n\n你给🚪姐钱至少还能看看福看看qq，你那些三瓜俩枣钱用来追现实的女生，你碰一下手都得告你强奸😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2039667934046630217",
+        "created_at": "2026-04-02T11:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039667934046630217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1594951264109928448",
+              "start": 3,
+              "username": "MiniGoatYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039667934046630217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039462469450838017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiniGoatYY: 我看未必\n\n你给🚪姐钱至少还能看看福看看qq，你那些三瓜俩枣钱用来追现实的女生，你碰一下手都得告你强奸😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594951264109928448",
+        "conversation_id": "2039462469450838017",
+        "created_at": "2026-04-01T21:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T22:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039462469450838017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/158116m15/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/158116m15/status/2039247934190194809",
+              "start": 53,
+              "url": "https://t.co/7m9ZOUUNml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039462469450838017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2663,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039247934190194809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看未必\n\n你给🚪姐钱至少还能看看福看看qq，你那些三瓜俩枣钱用来追现实的女生，你碰一下手都得告你强奸😋 https://t.co/7m9ZOUUNml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 252,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 238
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T07:09:57.000Z",
+        "description": "蝻的，Z世代，现居老挝🇱🇦，Crypto用来挣零花钱，鉴证老资历（已退休），现役工地测量员（马上辞职），梦想是环游世界。",
+        "id": "1594951264109928448",
+        "location": "大东亚共荣圈",
+        "name": "Goat阳阳",
+        "pinned_tweet_id": "2023350871011258618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017889740633313280/kgMsFc7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 2235,
+          "like_count": 154687,
+          "listed_count": 4,
+          "media_count": 1059,
+          "tweet_count": 12287
+        },
+        "username": "MiniGoatYY",
+        "verified": true
+      }
+    ]
+  }
+}

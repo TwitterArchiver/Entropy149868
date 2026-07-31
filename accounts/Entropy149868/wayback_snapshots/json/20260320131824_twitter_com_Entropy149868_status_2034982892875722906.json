@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2034982892875722906",
+    "created_at": "2026-03-20T13:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T14:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034982892875722906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuYi_GanLan/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/YuYi_GanLan/status/2034666018791215441",
+          "start": 12,
+          "url": "https://t.co/m283xT6UDG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034982892875722906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034666018791215441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我嗑阿片be like https://t.co/m283xT6UDG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2034666008166936577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyV9E1aMAEuOvX.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2034982892875722906",
+        "created_at": "2026-03-20T13:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034982892875722906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuYi_GanLan/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/YuYi_GanLan/status/2034666018791215441",
+              "start": 12,
+              "url": "https://t.co/m283xT6UDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034982892875722906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034666018791215441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我嗑阿片be like https://t.co/m283xT6UDG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034666008166936577"
+          ]
+        },
+        "author_id": "1815097290560090113",
+        "conversation_id": "2034666018791215441",
+        "created_at": "2026-03-19T16:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034666018791215441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hMLkaaU85O",
+              "end": 52,
+              "expanded_url": "https://x.com/YuYi_GanLan/status/2034666018791215441/photo/1",
+              "media_key": "3_2034666008166936577",
+              "start": 29,
+              "url": "https://t.co/hMLkaaU85O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034666018791215441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2784,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "母人屄脑这一块\n鸡巴毁脑这一块\n丧智喷卵这一块\n\n#反差 https://t.co/hMLkaaU85O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 221,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 186
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T18:51:39.000Z",
+        "description": "你不需要发情♡                                                                 只是有脑子的动物哦♡\n         Q2981556831   V YuYi_GL\n匿名信箱 https://t.co/ySs1XJxltG 清水@YuYi_GL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 147,
+                "username": "YuYi_GL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuyi_gl",
+                "end": 144,
+                "expanded_url": "https://ngl.link/yuyi_gl",
+                "start": 121,
+                "url": "https://t.co/ySs1XJxltG"
+              }
+            ]
+          }
+        },
+        "id": "1815097290560090113",
+        "location": "地核",
+        "name": "羽衣甘蓝",
+        "pinned_tweet_id": "2031623466806554627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023660264353394688/WNqbEmaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7695,
+          "following_count": 2,
+          "like_count": 237,
+          "listed_count": 13,
+          "media_count": 189,
+          "tweet_count": 287
+        },
+        "username": "YuYi_GanLan",
+        "verified": false
+      }
+    ]
+  }
+}

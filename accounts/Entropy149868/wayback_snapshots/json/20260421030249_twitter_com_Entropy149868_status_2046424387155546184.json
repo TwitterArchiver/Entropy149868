@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2046299777542000949",
+    "created_at": "2026-04-21T03:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T04:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046424387155546184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1619034065428156416",
+          "start": 0,
+          "username": "qtieofshedtwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046424387155546184",
+    "in_reply_to_user_id": "1619034065428156416",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046299777542000949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtieofshedtwt yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2046299777542000949",
+        "created_at": "2026-04-21T03:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046424387155546184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1619034065428156416",
+              "start": 0,
+              "username": "qtieofshedtwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046424387155546184",
+        "in_reply_to_user_id": "1619034065428156416",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046299777542000949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtieofshedtwt yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619034065428156416",
+        "conversation_id": "2046299777542000949",
+        "created_at": "2026-04-20T18:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046299777542000949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046299777542000949",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Seeing all the people sad about pregabalins restriction in china makes me want to try pregabalin even more like it cant be that good can it?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 383,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 406
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T18:06:27.000Z",
+        "description": "And in that light i find deliverance |\ntrans girl!! | lesbian | autistic | 18! | intp | stoner!! | Rhythm game fanatic | your local insomniac!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "literallyqtie.straw.page",
+                "end": 23,
+                "expanded_url": "https://literallyqtie.straw.page",
+                "start": 0,
+                "url": "https://t.co/7uYXX6Hm80"
+              }
+            ]
+          }
+        },
+        "id": "1619034065428156416",
+        "location": "Arcaea",
+        "name": "Lagrange of shtwt",
+        "pinned_tweet_id": "2033971545941676528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027073001473429504/Nmh8Slb5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 550,
+          "like_count": 10913,
+          "listed_count": 4,
+          "media_count": 332,
+          "tweet_count": 5339
+        },
+        "url": "https://t.co/7uYXX6Hm80",
+        "username": "qtieofshedtwt",
+        "verified": false
+      }
+    ]
+  }
+}

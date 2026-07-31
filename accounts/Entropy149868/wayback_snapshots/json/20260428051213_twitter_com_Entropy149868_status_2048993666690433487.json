@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048333312964665344"
+      ],
+      "media_source_tweet_id": [
+        "2048333455906468182"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2048993666690433487",
+    "created_at": "2026-04-28T05:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048993666690433487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2044073101961412609",
+          "start": 3,
+          "username": "crow_kill_snow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hNdMWbJ5aC",
+          "end": 54,
+          "expanded_url": "https://x.com/crow_kill_snow/status/2048333455906468182/photo/1",
+          "media_key": "3_2048333312964665344",
+          "start": 31,
+          "url": "https://t.co/hNdMWbJ5aC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048993666690433487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048333455906468182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crow_kill_snow: 独家强效解离剂 雪尘 https://t.co/hNdMWbJ5aC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2048333312964665344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0kS6zboAAmXLh.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048333312964665344"
+          ],
+          "media_source_tweet_id": [
+            "2048333455906468182"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2048993666690433487",
+        "created_at": "2026-04-28T05:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048993666690433487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2044073101961412609",
+              "start": 3,
+              "username": "crow_kill_snow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNdMWbJ5aC",
+              "end": 54,
+              "expanded_url": "https://x.com/crow_kill_snow/status/2048333455906468182/photo/1",
+              "media_key": "3_2048333312964665344",
+              "start": 31,
+              "url": "https://t.co/hNdMWbJ5aC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048993666690433487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048333455906468182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crow_kill_snow: 独家强效解离剂 雪尘 https://t.co/hNdMWbJ5aC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048333312964665344"
+          ]
+        },
+        "author_id": "2044073101961412609",
+        "conversation_id": "2048333455906468182",
+        "created_at": "2026-04-26T09:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048333455906468182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNdMWbJ5aC",
+              "end": 34,
+              "expanded_url": "https://x.com/crow_kill_snow/status/2048333455906468182/photo/1",
+              "media_key": "3_2048333312964665344",
+              "start": 11,
+              "url": "https://t.co/hNdMWbJ5aC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048333455906468182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1474,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "独家强效解离剂 雪尘 https://t.co/hNdMWbJ5aC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 414,
+          "like_count": 900,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 455
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:25:24.000Z",
+        "description": "你的名字是一枚雪\n落在无人认领的墓碑上",
+        "id": "2044073101961412609",
+        "name": "鸦葬雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044288804094390274/S4DRM1oY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 67,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "crow_kill_snow",
+        "verified": false
+      }
+    ]
+  }
+}

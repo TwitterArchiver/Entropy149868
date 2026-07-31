@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2027003004914933854",
+    "created_at": "2026-02-28T06:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027634584419279110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1976040406245912576",
+          "start": 0,
+          "username": "Shyizhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027634584419279110",
+    "in_reply_to_user_id": "1976040406245912576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027003004914933854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shyizhi 我也想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2027003004914933854",
+        "created_at": "2026-02-28T06:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027634584419279110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1976040406245912576",
+              "start": 0,
+              "username": "Shyizhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027634584419279110",
+        "in_reply_to_user_id": "1976040406245912576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027003004914933854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shyizhi 我也想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976040406245912576",
+        "conversation_id": "2027003004914933854",
+        "created_at": "2026-02-26T12:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027003004914933854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "wlw"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "les"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027003004914933854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 22736,
+          "like_count": 208,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我想女人。我想要女人。找婆娘。。想和女人上床睡觉。#wlw #les"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994944756208521216/y_uEvLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 43,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 60
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T21:42:16.000Z",
+        "description": "le 男的滚 卡颜 相处看感觉。",
+        "id": "1976040406245912576",
+        "name": "zhi.",
+        "pinned_tweet_id": "2027243821332058389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992445417137561600/rUlTU10w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 21,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "username": "Shyizhi",
+        "verified": false
+      }
+    ]
+  }
+}

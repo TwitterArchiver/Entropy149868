@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2030875299332993447",
+    "created_at": "2026-03-09T12:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T13:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030981992255226011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009620713460887553",
+          "start": 0,
+          "username": "HujiaoFen_sad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030981992255226011",
+    "in_reply_to_user_id": "2009620713460887553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030875299332993447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HujiaoFen_sad 我联用过，很爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2030875299332993447",
+        "created_at": "2026-03-09T12:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030981992255226011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009620713460887553",
+              "start": 0,
+              "username": "HujiaoFen_sad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030981992255226011",
+        "in_reply_to_user_id": "2009620713460887553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030875299332993447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HujiaoFen_sad 我联用过，很爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009620713460887553",
+        "conversation_id": "2030875299332993447",
+        "created_at": "2026-03-09T05:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T06:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030875299332993447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030875299332993447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林和复方甘草片可以联用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994944756208521216/y_uEvLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 55,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 70
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:43:28.000Z",
+        "description": "无聊……我要看到血流成河\n🚪38 重度抑郁/LGBT友好/男の娘/泛性恋/自伤/平常都会回私信，我是个很温良的小男孩呀请来过我门槛谢谢泥૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა",
+        "id": "2009620713460887553",
+        "location": "广东省",
+        "name": "我为你撑起蓝色雨伞",
+        "pinned_tweet_id": "2021651507595379051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030879417829134336/ocWdhWea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 244,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 446
+        },
+        "username": "HujiaoFen_sad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2032715754727158033",
+    "created_at": "2026-03-14T10:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032772345447039084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1889969000979054594",
+          "start": 0,
+          "username": "ameame1438809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032772345447039084",
+    "in_reply_to_user_id": "1889969000979054594",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032715754727158033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameame1438809 会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2032715754727158033",
+        "created_at": "2026-03-14T10:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032772345447039084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1889969000979054594",
+              "start": 0,
+              "username": "ameame1438809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032772345447039084",
+        "in_reply_to_user_id": "1889969000979054594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032715754727158033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameame1438809 会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889969000979054594",
+        "conversation_id": "2032715754727158033",
+        "created_at": "2026-03-14T07:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032715754727158033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032715754727158033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有选择，大家还会选择od或吸毒吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol女同",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031261004290506752/gM3ipNJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 158,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 128
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T09:25:29.000Z",
+        "description": "头像名字灵感来源于广州吸毒",
+        "id": "1889969000979054594",
+        "location": "上海市",
+        "name": "上海市吸毒局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032351529618038784/kE-9sYxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 21,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "username": "ameame1438809",
+        "verified": false
+      }
+    ]
+  }
+}

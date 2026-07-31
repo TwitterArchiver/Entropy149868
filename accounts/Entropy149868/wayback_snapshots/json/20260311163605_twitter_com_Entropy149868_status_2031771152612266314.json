@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2031771152612266314",
+    "created_at": "2026-03-11T16:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031771152612266314"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "中推模拟选举"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031771152612266314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031387028911276513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: OD党宣布加入 #中推模拟选举 👏！\n\n虽然本党源于OD社群，但本党所涉事项的范畴远远不止OD社群哦~👀欢迎对毒品/药物滥用/精神活性物质等热点话题感兴趣的小伙伴们多多关注，并针对你关心的事项，提出意见和反馈，并投出你宝贵的一票🥰\n\n以下为本党的初…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2031383973256159232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDs9gBa4AALgOo.png",
+        "width": 2580
+      },
+      {
+        "height": 1018,
+        "media_key": "3_2031384045783838720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDtBuNXcAAK4NP.png",
+        "width": 2522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2031771152612266314",
+        "created_at": "2026-03-11T16:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031771152612266314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "中推模拟选举"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031771152612266314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031387028911276513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: OD党宣布加入 #中推模拟选举 👏！\n\n虽然本党源于OD社群，但本党所涉事项的范畴远远不止OD社群哦~👀欢迎对毒品/药物滥用/精神活性物质等热点话题感兴趣的小伙伴们多多关注，并针对你关心的事项，提出意见和反馈，并投出你宝贵的一票🥰\n\n以下为本党的初…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031383973256159232",
+            "3_2031384045783838720"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2031387028911276513",
+        "created_at": "2026-03-10T15:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031387028911276513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "中推模拟选举"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1tLSVT224",
+              "end": 172,
+              "expanded_url": "https://x.com/SalviaSWC/status/2031387028911276513/photo/1",
+              "media_key": "3_2031383973256159232",
+              "start": 149,
+              "url": "https://t.co/A1tLSVT224"
+            },
+            {
+              "display_url": "pic.x.com/A1tLSVT224",
+              "end": 172,
+              "expanded_url": "https://x.com/SalviaSWC/status/2031387028911276513/photo/1",
+              "media_key": "3_2031384045783838720",
+              "start": 149,
+              "url": "https://t.co/A1tLSVT224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031387028911276513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2343,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "OD党宣布加入 #中推模拟选举 👏！\n\n虽然本党源于OD社群，但本党所涉事项的范畴远远不止OD社群哦~👀欢迎对毒品/药物滥用/精神活性物质等热点话题感兴趣的小伙伴们多多关注，并针对你关心的事项，提出意见和反馈，并投出你宝贵的一票🥰\n\n以下为本党的初版党章。如有语法问题等低级错误，还请多多谅解哦🥺 https://t.co/A1tLSVT224"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031261004290506752/gM3ipNJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 76,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 83
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2959,
+          "following_count": 927,
+          "like_count": 20772,
+          "listed_count": 9,
+          "media_count": 347,
+          "tweet_count": 6037
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2037864634766815691",
+    "created_at": "2026-04-04T07:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T08:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040338404517577179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        },
+        {
+          "end": 24,
+          "id": "1708871568179511296",
+          "start": 16,
+          "username": "nemuilz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040338404517577179",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037864634766815691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite @nemuilz 蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2037864634766815691",
+        "created_at": "2026-04-04T07:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040338404517577179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 24,
+              "id": "1708871568179511296",
+              "start": 16,
+              "username": "nemuilz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040338404517577179",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037864634766815691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite @nemuilz 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2037864634766815691",
+        "created_at": "2026-03-28T12:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037864634766815691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037864634766815691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 16942,
+          "like_count": 226,
+          "quote_count": 3,
+          "reply_count": 183,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "为迎接700fo，十七给大家准备了一次小抽奖～\n一等奖（1名）：白兔BRON一瓶（折现62元）\n二等奖（2名）：红pr一盒（折现16元）\n三等奖（3名）：愈美片一盒（折现9元）\ngrok直开，无假抽。\n参与方式：关注 + 点赞 + 评论 + 转帖\n开奖时间：4月5日\n\n快来参与吧，祝大家好运中奖～🍀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 282,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 261
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/08/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助/引路人:@futi999139732\n/Thrillingly pointless",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "futi999139732"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "第三高原",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2037864634766815691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037208041607868416/uMSZtK-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 820,
+          "like_count": 2012,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 1158
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T15:48:44.000Z",
+        "description": "我是空白 这里是我的碎碎念\n欢迎找我小窗玩\n无营业，无性别，我就纯发负能和日常黄赌毒。\n认出我皮下的请谅解这是我的第二人格和我线下墙内本人没有任何关系。不是本人。",
+        "id": "1708871568179511296",
+        "name": "空白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977793293997277184/EG09-SGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 155,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 301
+        },
+        "username": "nemuilz",
+        "verified": false
+      }
+    ]
+  }
+}

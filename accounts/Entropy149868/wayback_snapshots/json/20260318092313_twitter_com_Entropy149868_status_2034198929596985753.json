@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2034198929596985753",
+    "created_at": "2026-03-18T09:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034198929596985753"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034198929596985753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我太惨了，买叶子之后没给单号说有事（我朋友也是在他那买叶子都收到货了）买4ho也是，买dmt也是，卖我dmt还是我信任的老oder了。这个世界是忽悠人的世界，就是个忽悠的世界！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2034198929596985753",
+        "created_at": "2026-03-18T09:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034198929596985753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034198929596985753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太惨了，买叶子之后没给单号说有事（我朋友也是在他那买叶子都收到货了）买4ho也是，买dmt也是，卖我dmt还是我信任的老oder了。这个世界是忽悠人的世界，就是个忽悠的世界！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034067729096012271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 196,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 160
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

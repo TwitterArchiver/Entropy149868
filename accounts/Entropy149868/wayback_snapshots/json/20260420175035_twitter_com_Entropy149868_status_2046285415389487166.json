@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2046180173792633235",
+    "created_at": "2026-04-20T17:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T18:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046285415389487166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1873822579212877824",
+          "start": 0,
+          "username": "R1N_TWT"
+        },
+        {
+          "end": 17,
+          "id": "1886385501130866688",
+          "start": 9,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046285415389487166",
+    "in_reply_to_user_id": "1873822579212877824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046200982695276922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1N_TWT @Lomyral 不用担心可以吃策划药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2046180173792633235",
+        "created_at": "2026-04-20T17:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046285415389487166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1873822579212877824",
+              "start": 0,
+              "username": "R1N_TWT"
+            },
+            {
+              "end": 17,
+              "id": "1886385501130866688",
+              "start": 9,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046285415389487166",
+        "in_reply_to_user_id": "1873822579212877824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046200982695276922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1N_TWT @Lomyral 不用担心可以吃策划药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873822579212877824",
+        "conversation_id": "2046180173792633235",
+        "created_at": "2026-04-20T12:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046200982695276922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046200982695276922",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 810,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046180173792633235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral 等再过个几年都禁完了我们就只剩感康吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 372,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 396
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T20:05:08.000Z",
+        "description": "色情内容/自伤/疯言疯语/药物滥用/没品笑话。什么都发，谁都不是。辱骂我视为死妈",
+        "id": "1873822579212877824",
+        "location": "机厅",
+        "name": "粼型泡沫生命🍥",
+        "pinned_tweet_id": "2025552950639169809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033140195202342913/YK4egfrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1563,
+          "like_count": 196,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 3404
+        },
+        "username": "R1N_TWT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 593,
+          "like_count": 45140,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 5883
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

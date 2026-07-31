@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2032576361391599706",
+    "created_at": "2026-03-13T21:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T22:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032576361391599706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013233628847980544",
+          "start": 3,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032576361391599706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032417644956226034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asukai_Yuki: 我想和割手手嗑药药的人/餐券妹/酷儿/滚人互fo🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2032576361391599706",
+        "created_at": "2026-03-13T21:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T22:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032576361391599706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013233628847980544",
+              "start": 3,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032576361391599706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032417644956226034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asukai_Yuki: 我想和割手手嗑药药的人/餐券妹/酷儿/滚人互fo🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013233628847980544",
+        "conversation_id": "2032417644956226034",
+        "created_at": "2026-03-13T11:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032417644956226034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032417644956226034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3124,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我想和割手手嗑药药的人/餐券妹/酷儿/滚人互fo🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031261004290506752/gM3ipNJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 144,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 114
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈＝飛鳥井ユキ | enby 泛性恋 梦想是当摇滚明星 | 06| 双相 焦虑 | 惨圈女| 🎸🎨 | 提问箱https://t.co/1wmN2eVRYQ | 🚪500纯绿仅好友位不陪聊。并非门姐仅是过滤恶心玩意挂上的。给不起别骚扰我＾_＾",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 86,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 63,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "Rumoi-shi, Hokkaidō",
+        "name": "郁希",
+        "pinned_tweet_id": "2030183493746184704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030567969726840832/5gci_IPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 128,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1491
+        },
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

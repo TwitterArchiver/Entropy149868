@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2046601244261896312",
+    "created_at": "2026-04-21T14:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046601244261896312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1950548412140494848",
+          "start": 3,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046601244261896312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046169020626354246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K7qWcfzcdAPW5Y9: 这两天国内气氛越来越不对劲了\n总感觉有大事要发生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2046601244261896312",
+        "created_at": "2026-04-21T14:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046601244261896312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1950548412140494848",
+              "start": 3,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046601244261896312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046169020626354246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K7qWcfzcdAPW5Y9: 这两天国内气氛越来越不对劲了\n总感觉有大事要发生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950548412140494848",
+        "conversation_id": "2046169020626354246",
+        "created_at": "2026-04-20T10:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046169020626354246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046169020626354246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 1758578,
+          "like_count": 1279,
+          "quote_count": 2,
+          "reply_count": 739,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "这两天国内气氛越来越不对劲了\n总感觉有大事要发生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 385,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 410
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "女，汉族，河南驻马店人，小学学历，每天都看浪人新闻和跑路TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24086,
+          "following_count": 318,
+          "like_count": 1759,
+          "listed_count": 67,
+          "media_count": 1472,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052369698134896640",
+        "3_2052369700336881664"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052369704602529927",
+    "created_at": "2026-05-07T12:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052369704602529927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/50vWwNBYfI",
+          "end": 42,
+          "expanded_url": "https://x.com/Entropy149868/status/2052369704602529927/photo/1",
+          "media_key": "3_2052369698134896640",
+          "start": 19,
+          "url": "https://t.co/50vWwNBYfI"
+        },
+        {
+          "display_url": "pic.x.com/50vWwNBYfI",
+          "end": 42,
+          "expanded_url": "https://x.com/Entropy149868/status/2052369704602529927/photo/1",
+          "media_key": "3_2052369700336881664",
+          "start": 19,
+          "url": "https://t.co/50vWwNBYfI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052369704602529927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "70mg dpt肌肉注射（之前的图） https://t.co/50vWwNBYfI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052369698134896640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt7XdUbMAAGplm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052369700336881664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt7Xlha0AAq9Sc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052369698134896640",
+            "3_2052369700336881664"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052369704602529927",
+        "created_at": "2026-05-07T12:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052369704602529927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50vWwNBYfI",
+              "end": 42,
+              "expanded_url": "https://x.com/Entropy149868/status/2052369704602529927/photo/1",
+              "media_key": "3_2052369698134896640",
+              "start": 19,
+              "url": "https://t.co/50vWwNBYfI"
+            },
+            {
+              "display_url": "pic.x.com/50vWwNBYfI",
+              "end": 42,
+              "expanded_url": "https://x.com/Entropy149868/status/2052369704602529927/photo/1",
+              "media_key": "3_2052369700336881664",
+              "start": 19,
+              "url": "https://t.co/50vWwNBYfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052369704602529927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "70mg dpt肌肉注射（之前的图） https://t.co/50vWwNBYfI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 438,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 488
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

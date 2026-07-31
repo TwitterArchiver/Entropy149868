@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051207718376214528"
+      ],
+      "media_source_tweet_id": [
+        "2051207731496063236"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2051226797355016216",
+    "created_at": "2026-05-04T09:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051226797355016216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986452594206838785",
+          "start": 3,
+          "username": "Idontselldrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fS1P3S8VuZ",
+          "end": 100,
+          "expanded_url": "https://x.com/Idontselldrug/status/2051207731496063236/photo/1",
+          "media_key": "3_2051207718376214528",
+          "start": 77,
+          "url": "https://t.co/fS1P3S8VuZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051226797355016216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051207731496063236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Idontselldrug: 台湾已经堕落了，居然当街售卖鸦片产品，过不了几年就要跟欧美一样遍地流浪汉了，还是咱妈禁毒好，希望祖国早日统一！！！ https://t.co/fS1P3S8VuZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051207718376214528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdajVZakAAkmBo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051207718376214528"
+          ],
+          "media_source_tweet_id": [
+            "2051207731496063236"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051226797355016216",
+        "created_at": "2026-05-04T09:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051226797355016216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1986452594206838785",
+              "start": 3,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fS1P3S8VuZ",
+              "end": 100,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051207731496063236/photo/1",
+              "media_key": "3_2051207718376214528",
+              "start": 77,
+              "url": "https://t.co/fS1P3S8VuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051226797355016216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051207731496063236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Idontselldrug: 台湾已经堕落了，居然当街售卖鸦片产品，过不了几年就要跟欧美一样遍地流浪汉了，还是咱妈禁毒好，希望祖国早日统一！！！ https://t.co/fS1P3S8VuZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051207718376214528"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051207731496063236",
+        "created_at": "2026-05-04T07:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051207731496063236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fS1P3S8VuZ",
+              "end": 81,
+              "expanded_url": "https://x.com/Idontselldrug/status/2051207731496063236/photo/1",
+              "media_key": "3_2051207718376214528",
+              "start": 58,
+              "url": "https://t.co/fS1P3S8VuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051207731496063236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "台湾已经堕落了，居然当街售卖鸦片产品，过不了几年就要跟欧美一样遍地流浪汉了，还是咱妈禁毒好，希望祖国早日统一！！！ https://t.co/fS1P3S8VuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 429,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 473
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 283,
+          "like_count": 2096,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 2723
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

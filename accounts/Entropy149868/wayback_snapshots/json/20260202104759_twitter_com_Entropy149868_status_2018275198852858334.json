@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2018273685233430892",
+    "created_at": "2026-02-02T10:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018275198852858334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "488823839",
+          "start": 0,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018275198852858334",
+    "in_reply_to_user_id": "488823839",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018273685233430892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile000 戒戒你好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_2018273679097176064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJZN8YboAA0_Zj.jpg",
+        "width": 720
+      },
+      {
+        "height": 676,
+        "media_key": "3_2018273681445961729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJZOFIbQAERgxh.jpg",
+        "width": 717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2018273685233430892",
+        "created_at": "2026-02-02T10:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018275198852858334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "488823839",
+              "start": 0,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018275198852858334",
+        "in_reply_to_user_id": "488823839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018273685233430892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile000 戒戒你好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018273679097176064",
+            "3_2018273681445961729"
+          ]
+        },
+        "author_id": "488823839",
+        "conversation_id": "2018273685233430892",
+        "created_at": "2026-02-02T10:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018273685233430892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPwKQ5PKWb",
+              "end": 58,
+              "expanded_url": "https://x.com/taikongjile000/status/2018273685233430892/photo/1",
+              "media_key": "3_2018273679097176064",
+              "start": 35,
+              "url": "https://t.co/zPwKQ5PKWb"
+            },
+            {
+              "display_url": "pic.x.com/zPwKQ5PKWb",
+              "end": 58,
+              "expanded_url": "https://x.com/taikongjile000/status/2018273685233430892/photo/1",
+              "media_key": "3_2018273681445961729",
+              "start": 35,
+              "url": "https://t.co/zPwKQ5PKWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018273685233430892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地雷女 xyn不要死啊\n有个来钱最快的方法\n一点鲁出来过点好的生活吧 https://t.co/zPwKQ5PKWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4loder💊💊💊💊|普瑞巴林🥰l这里是Entropy，也可以叫我熵烬l半建全人",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994944756208521216/y_uEvLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 28,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "上海市禁毒委托上海司法鉴定中心已对本人多批次产品检验合规。本人不向买家销售不符合当地法律法规的化学品，也没有税务问题，请DEA/FDA/IRS不要在本人身上浪费\n官网：https://t.co/yJOEtw5Bi3\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 140,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 107,
+                "expanded_url": "https://taikong.mom/",
+                "start": 84,
+                "url": "https://t.co/yJOEtw5Bi3"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 135,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 112,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom/",
+                "start": 0,
+                "url": "https://t.co/yJOEtw5Bi3"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2017190056562422104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 262,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/yJOEtw5Bi3",
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

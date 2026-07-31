@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023792615661973506"
+      ],
+      "media_source_tweet_id": [
+        "2023792625346900301"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2024410801063305715",
+    "created_at": "2026-02-19T09:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024410801063305715"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "Lenin",
+          "probability": 0.7256,
+          "start": 36,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "936068566536744960",
+          "start": 3,
+          "username": "dogmoder_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wquuzlJiO5",
+          "end": 84,
+          "expanded_url": "https://x.com/dogmoder_/status/2023792625346900301/photo/1",
+          "media_key": "3_2023792615661973506",
+          "start": 61,
+          "url": "https://t.co/wquuzlJiO5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024410801063305715",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 280
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023792625346900301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dogmoder_: Today’s activities : Lenin und heroin yipeeee https://t.co/wquuzlJiO5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1321,
+        "media_key": "3_2023792615661973506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBX0qVOXMAInoGQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023792615661973506"
+          ],
+          "media_source_tweet_id": [
+            "2023792625346900301"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2024410801063305715",
+        "created_at": "2026-02-19T09:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024410801063305715"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Lenin",
+              "probability": 0.7256,
+              "start": 36,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "936068566536744960",
+              "start": 3,
+              "username": "dogmoder_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wquuzlJiO5",
+              "end": 84,
+              "expanded_url": "https://x.com/dogmoder_/status/2023792625346900301/photo/1",
+              "media_key": "3_2023792615661973506",
+              "start": 61,
+              "url": "https://t.co/wquuzlJiO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024410801063305715",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 280
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023792625346900301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dogmoder_: Today’s activities : Lenin und heroin yipeeee https://t.co/wquuzlJiO5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023792615661973506"
+          ]
+        },
+        "author_id": "936068566536744960",
+        "conversation_id": "2023792625346900301",
+        "created_at": "2026-02-17T16:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023792625346900301"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Lenin",
+              "probability": 0.6393,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wquuzlJiO5",
+              "end": 69,
+              "expanded_url": "https://x.com/dogmoder_/status/2023792625346900301/photo/1",
+              "media_key": "3_2023792615661973506",
+              "start": 46,
+              "url": "https://t.co/wquuzlJiO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023792625346900301",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 497546,
+          "like_count": 3764,
+          "quote_count": 161,
+          "reply_count": 132,
+          "retweet_count": 280
+        },
+        "reply_settings": "everyone",
+        "text": "Today’s activities : Lenin und heroin yipeeee https://t.co/wquuzlJiO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994944756208521216/y_uEvLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 36,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 24
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-30T03:05:12.000Z",
+        "description": "🩻.21yo. i have enemies. theyfab autodiag. curse bearer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/1men00",
+                "end": 23,
+                "expanded_url": "http://paypal.me/1men00",
+                "start": 0,
+                "url": "https://t.co/l7WBQsKBTR"
+              }
+            ]
+          }
+        },
+        "id": "936068566536744960",
+        "location": "She/he/it",
+        "name": "shemale névrosé",
+        "pinned_tweet_id": "2018348416149975196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989332935984533504/mIoCmbm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 265,
+          "like_count": 38115,
+          "listed_count": 8,
+          "media_count": 531,
+          "tweet_count": 11562
+        },
+        "url": "https://t.co/l7WBQsKBTR",
+        "username": "dogmoder_",
+        "verified": false
+      }
+    ]
+  }
+}

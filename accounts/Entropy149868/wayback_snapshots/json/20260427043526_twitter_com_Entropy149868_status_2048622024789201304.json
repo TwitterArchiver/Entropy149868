@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2048043807019802869",
+    "created_at": "2026-04-27T04:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048622024789201304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823160336691982336",
+          "start": 0,
+          "username": "Hozheganma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048622024789201304",
+    "in_reply_to_user_id": "1823160336691982336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048554428140331331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hozheganma 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2048043807019802869",
+        "created_at": "2026-04-27T04:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048622024789201304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823160336691982336",
+              "start": 0,
+              "username": "Hozheganma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048622024789201304",
+        "in_reply_to_user_id": "1823160336691982336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048554428140331331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hozheganma 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823160336691982336",
+        "conversation_id": "2048043807019802869",
+        "created_at": "2026-04-27T00:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048554428140331331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048554428140331331",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048043807019802869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 晶格：oder！诶！oder！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 411,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 453
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "高中在读/术力口/重度游戏/od吸烟/自伤/友跨/durg&set/同类互fo/提问箱：https://t.co/cNzWslTT8R",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingganmogu",
+                "end": 67,
+                "expanded_url": "https://ngl.link/lingganmogu",
+                "start": 44,
+                "url": "https://t.co/cNzWslTT8R"
+              }
+            ]
+          }
+        },
+        "id": "1823160336691982336",
+        "location": "Highland.No-1",
+        "name": "沫依#Ng♓️（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 350,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 466
+        },
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

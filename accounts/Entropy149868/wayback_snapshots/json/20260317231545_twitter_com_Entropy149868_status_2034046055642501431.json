@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2034046055642501431",
+    "created_at": "2026-03-17T23:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T00:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034046055642501431"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "一日女友"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "四川"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "成都"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "线下"
+        },
+        {
+          "end": 108,
+          "start": 104,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "纯绿"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "半绿"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "非绿"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "门槛"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "陪聊"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1962047944699351040",
+          "start": 3,
+          "username": "shushuqidanche"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034046055642501431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033087178851639682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shushuqidanche: 重新做了一个价格表！\n这里系小圆🔍有需求可看表🤲\n本人活泼开朗友善温柔好说话，好会提供情绪价值。\n🥺🥺🥺求善待\n#爸爸活 #一日女友 #四川 #成都 #妈妈活 #线下 #门槛妹 #纯绿 #半绿 #非绿 #门槛 #陪聊 https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2033087162913312768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDb6AL7a0AAG-qz.jpg",
+        "width": 566
+      },
+      {
+        "height": 1154,
+        "media_key": "3_2033087163144052737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDb6AMyboAE7HRa.jpg",
+        "width": 1170
+      },
+      {
+        "height": 887,
+        "media_key": "3_2033087163135569920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDb6AMwaMAApNut.jpg",
+        "width": 844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2034046055642501431",
+        "created_at": "2026-03-17T23:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T00:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034046055642501431"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "一日女友"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "四川"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "成都"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "线下"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "纯绿"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "半绿"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "非绿"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "门槛"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "陪聊"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1962047944699351040",
+              "start": 3,
+              "username": "shushuqidanche"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034046055642501431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033087178851639682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shushuqidanche: 重新做了一个价格表！\n这里系小圆🔍有需求可看表🤲\n本人活泼开朗友善温柔好说话，好会提供情绪价值。\n🥺🥺🥺求善待\n#爸爸活 #一日女友 #四川 #成都 #妈妈活 #线下 #门槛妹 #纯绿 #半绿 #非绿 #门槛 #陪聊 https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033087162913312768",
+            "3_2033087163144052737",
+            "3_2033087163135569920"
+          ]
+        },
+        "author_id": "1962047944699351040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033087178851639682",
+        "created_at": "2026-03-15T07:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033087178851639682"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "一日女友"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "四川"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "成都"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "线下"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "纯绿"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "半绿"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "非绿"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "门槛"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "陪聊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iek03H31Os",
+              "end": 132,
+              "expanded_url": "https://x.com/shushuqidanche/status/2033087178851639682/photo/1",
+              "media_key": "3_2033087162913312768",
+              "start": 109,
+              "url": "https://t.co/iek03H31Os"
+            },
+            {
+              "display_url": "pic.x.com/iek03H31Os",
+              "end": 132,
+              "expanded_url": "https://x.com/shushuqidanche/status/2033087178851639682/photo/1",
+              "media_key": "3_2033087163144052737",
+              "start": 109,
+              "url": "https://t.co/iek03H31Os"
+            },
+            {
+              "display_url": "pic.x.com/iek03H31Os",
+              "end": 132,
+              "expanded_url": "https://x.com/shushuqidanche/status/2033087178851639682/photo/1",
+              "media_key": "3_2033087163135569920",
+              "start": 109,
+              "url": "https://t.co/iek03H31Os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033087178851639682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4960,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "重新做了一个价格表！\n这里系小圆🔍有需求可看表🤲\n本人活泼开朗友善温柔好说话，好会提供情绪价值。\n🥺🥺🥺求善待\n#爸爸活 #一日女友 #四川 #成都 #妈妈活 #线下 #门槛妹 #纯绿 #半绿 #非绿 #门槛 #陪聊 https://t.co/iek03H31Os"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol女同l查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2033881607426191581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 189,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 154
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T07:01:12.000Z",
+        "description": "˚₊♡. 𝙵𝚒𝚛𝚜𝚝 𝚕𝚘𝚟𝚎 𝚖𝚎𝚖𝚘𝚛𝚒𝚎𝚜 ⟡𓈒˚₊",
+        "id": "1962047944699351040",
+        "name": "Only圆（可验证）",
+        "pinned_tweet_id": "2033087178851639682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962049546336305153/kmsXmyat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 61,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 72
+        },
+        "username": "shushuqidanche",
+        "verified": false
+      }
+    ]
+  }
+}

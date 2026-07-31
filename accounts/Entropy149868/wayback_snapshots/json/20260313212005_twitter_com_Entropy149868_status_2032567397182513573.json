@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2032567397182513573",
+    "created_at": "2026-03-13T21:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T22:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032567397182513573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/conoloracigarr…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/conoloracigarro/status/2032226461382267105",
+          "start": 6,
+          "url": "https://t.co/nBjH7gaMXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032567397182513573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032226461382267105",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊这对吗？ https://t.co/nBjH7gaMXs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032226455715811328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPrMbwXkAAgaZ1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2032567397182513573",
+        "created_at": "2026-03-13T21:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T22:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032567397182513573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/conoloracigarr…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/conoloracigarro/status/2032226461382267105",
+              "start": 6,
+              "url": "https://t.co/nBjH7gaMXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032567397182513573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032226461382267105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊这对吗？ https://t.co/nBjH7gaMXs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032226455715811328"
+          ]
+        },
+        "author_id": "356586272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032226461382267105",
+        "created_at": "2026-03-12T22:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T23:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032226461382267105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGw4rL2vuR",
+              "end": 47,
+              "expanded_url": "https://x.com/conoloracigarro/status/2032226461382267105/photo/1",
+              "media_key": "3_2032226455715811328",
+              "start": 24,
+              "url": "https://t.co/wGw4rL2vuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032226461382267105",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 26112,
+          "like_count": 2564,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "El plato del buen comer https://t.co/wGw4rL2vuR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031261004290506752/gM3ipNJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 143,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 112
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-17T02:23:15.000Z",
+        "description": "",
+        "id": "356586272",
+        "name": "rob",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031498751433461760/tMVXsjIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157313,
+          "following_count": 203,
+          "like_count": 55510,
+          "listed_count": 107,
+          "media_count": 12781,
+          "tweet_count": 51777
+        },
+        "username": "conoloracigarro",
+        "verified": false
+      }
+    ]
+  }
+}

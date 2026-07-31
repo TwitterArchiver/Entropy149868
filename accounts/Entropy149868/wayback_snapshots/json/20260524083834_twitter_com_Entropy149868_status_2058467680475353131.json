@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058467672246165504"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2058467680475353131",
+    "created_at": "2026-05-24T08:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058467680475353131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OyKhzXSncs",
+          "end": 38,
+          "expanded_url": "https://x.com/Entropy149868/status/2058467680475353131/photo/1",
+          "media_key": "3_2058467672246165504",
+          "start": 15,
+          "url": "https://t.co/OyKhzXSncs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058467680475353131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我希望线下药房或医院还能买到 https://t.co/OyKhzXSncs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 625,
+        "media_key": "3_2058467672246165504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJElcRHboAA_bpM.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058467672246165504"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2058467680475353131",
+        "created_at": "2026-05-24T08:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058467680475353131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OyKhzXSncs",
+              "end": 38,
+              "expanded_url": "https://x.com/Entropy149868/status/2058467680475353131/photo/1",
+              "media_key": "3_2058467672246165504",
+              "start": 15,
+              "url": "https://t.co/OyKhzXSncs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058467680475353131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望线下药房或医院还能买到 https://t.co/OyKhzXSncs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "精神病院",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 460,
+          "like_count": 1161,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 552
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

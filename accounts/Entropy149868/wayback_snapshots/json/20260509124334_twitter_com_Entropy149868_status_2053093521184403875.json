@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052908783324585988"
+      ],
+      "media_source_tweet_id": [
+        "2052908789343359474"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2053093521184403875",
+    "created_at": "2026-05-09T12:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053093521184403875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1447598160570892294",
+          "start": 3,
+          "username": "666brutalmetal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IvA8JcKXJb",
+          "end": 43,
+          "expanded_url": "https://x.com/666brutalmetal/status/2052908789343359474/photo/1",
+          "media_key": "3_2052908783324585988",
+          "start": 20,
+          "url": "https://t.co/IvA8JcKXJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053093521184403875",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 200
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052908789343359474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @666brutalmetal: https://t.co/IvA8JcKXJb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_2052908783324585988",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1lqWJXYAQah5z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052908783324585988"
+          ],
+          "media_source_tweet_id": [
+            "2052908789343359474"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2053093521184403875",
+        "created_at": "2026-05-09T12:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053093521184403875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1447598160570892294",
+              "start": 3,
+              "username": "666brutalmetal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IvA8JcKXJb",
+              "end": 43,
+              "expanded_url": "https://x.com/666brutalmetal/status/2052908789343359474/photo/1",
+              "media_key": "3_2052908783324585988",
+              "start": 20,
+              "url": "https://t.co/IvA8JcKXJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053093521184403875",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 200
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052908789343359474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @666brutalmetal: https://t.co/IvA8JcKXJb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052908783324585988"
+          ]
+        },
+        "author_id": "1447598160570892294",
+        "conversation_id": "2052908789343359474",
+        "created_at": "2026-05-09T00:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052908789343359474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IvA8JcKXJb",
+              "end": 23,
+              "expanded_url": "https://x.com/666brutalmetal/status/2052908789343359474/photo/1",
+              "media_key": "3_2052908783324585988",
+              "start": 0,
+              "url": "https://t.co/IvA8JcKXJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052908789343359474",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 26234,
+          "like_count": 2332,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IvA8JcKXJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 447,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 504
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T16:21:42.000Z",
+        "description": "this is your house, welcome to hell  my friend",
+        "id": "1447598160570892294",
+        "location": "en el mismísimo infierno",
+        "name": "Brutal666metal.",
+        "pinned_tweet_id": "1789367764483776989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706473388837883904/aqAeBgaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18372,
+          "following_count": 6866,
+          "like_count": 136670,
+          "listed_count": 24,
+          "media_count": 15993,
+          "tweet_count": 24009
+        },
+        "username": "666brutalmetal",
+        "verified": false
+      }
+    ]
+  }
+}

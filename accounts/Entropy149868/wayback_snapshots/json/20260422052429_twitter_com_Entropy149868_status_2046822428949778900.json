@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2046424040559251575",
+    "created_at": "2026-04-22T05:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T06:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046822428949778900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046578258653978625",
+          "start": 0,
+          "username": "Gray0119ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046822428949778900",
+    "in_reply_to_user_id": "2046578258653978625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046702670099202308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gray0119ovo 那怕啥，策划药也是，我吃策划也没有问题啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2046424040559251575",
+        "created_at": "2026-04-22T05:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046822428949778900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046578258653978625",
+              "start": 0,
+              "username": "Gray0119ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046822428949778900",
+        "in_reply_to_user_id": "2046578258653978625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046702670099202308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gray0119ovo 那怕啥，策划药也是，我吃策划也没有问题啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046578258653978625",
+        "conversation_id": "2046424040559251575",
+        "created_at": "2026-04-21T21:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046702670099202308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046702670099202308",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046424040559251575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 我看豆包说仅用于化工合成和科研实验，不是给人吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 384,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 415
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T13:16:25.000Z",
+        "description": "🇨🇳🇭🇰\nod｜焦抑｜大学焦抑休学中｜08.01.19\n没素质但是会对朋友好",
+        "id": "2046578258653978625",
+        "location": "🚪52半绿",
+        "name": "灰玻璃Gray",
+        "pinned_tweet_id": "2046585442192302440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046579553297162240/7Zf7vL4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 17,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "username": "Gray0119ovo",
+        "verified": false
+      }
+    ]
+  }
+}

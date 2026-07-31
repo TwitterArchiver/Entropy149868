@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2042289191699013633"
+      ],
+      "media_source_tweet_id": [
+        "2042289226767581627"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2042444943923560585",
+    "created_at": "2026-04-10T03:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042444943923560585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040825100333654016",
+          "start": 3,
+          "username": "cuddddddleme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dF91xqiyPL",
+          "end": 73,
+          "expanded_url": "https://x.com/cuddddddleme/status/2042289226767581627/video/1",
+          "media_key": "7_2042289191699013633",
+          "start": 50,
+          "url": "https://t.co/dF91xqiyPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042444943923560585",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042289226767581627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cuddddddleme: Reallll just woke up from a nap https://t.co/dF91xqiyPL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22428,
+        "height": 1280,
+        "media_key": "7_2042289191699013633",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042289191699013633/pu/img/IseVY6Se5cDMOX6Q.jpg",
+        "public_metrics": {
+          "view_count": 20248
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042289191699013633/pu/vid/avc1/320x568/z1M6nnqJdVB4dRaS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042289191699013633/pu/vid/avc1/480x852/uVVUG04UkoH1WEHk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042289191699013633/pu/vid/avc1/720x1280/aULLwTPqnfPAdNve.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042289191699013633/pu/pl/7TamV361tdQmIDLD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042289191699013633"
+          ],
+          "media_source_tweet_id": [
+            "2042289226767581627"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2042444943923560585",
+        "created_at": "2026-04-10T03:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042444943923560585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040825100333654016",
+              "start": 3,
+              "username": "cuddddddleme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dF91xqiyPL",
+              "end": 73,
+              "expanded_url": "https://x.com/cuddddddleme/status/2042289226767581627/video/1",
+              "media_key": "7_2042289191699013633",
+              "start": 50,
+              "url": "https://t.co/dF91xqiyPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042444943923560585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042289226767581627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cuddddddleme: Reallll just woke up from a nap https://t.co/dF91xqiyPL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042289191699013633"
+          ]
+        },
+        "author_id": "2040825100333654016",
+        "conversation_id": "2042289226767581627",
+        "created_at": "2026-04-09T17:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042289226767581627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dF91xqiyPL",
+              "end": 55,
+              "expanded_url": "https://x.com/cuddddddleme/status/2042289226767581627/video/1",
+              "media_key": "7_2042289191699013633",
+              "start": 32,
+              "url": "https://t.co/dF91xqiyPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042289226767581627",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 40289,
+          "like_count": 2097,
+          "quote_count": 16,
+          "reply_count": 50,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "Reallll just woke up from a nap https://t.co/dF91xqiyPL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 319,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 292
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T16:13:40.000Z",
+        "description": "Menhera furry lesbian girl💕🎂 ^¬^\nStoner pup(˶˃𐃷˂˶)💟💟 I draw 2",
+        "id": "2040825100333654016",
+        "location": "heaven",
+        "name": "mew🔞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042392150499864576/LRbT9hkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 20,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 175
+        },
+        "username": "cuddddddleme",
+        "verified": false
+      }
+    ]
+  }
+}

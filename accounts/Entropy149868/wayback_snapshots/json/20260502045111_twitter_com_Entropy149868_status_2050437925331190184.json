@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050437919014629376",
+        "3_2050437918481870848",
+        "3_2050437921828913152"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050437925331190184",
+    "created_at": "2026-05-02T04:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050437925331190184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5r6ZNb6PTI",
+          "end": 38,
+          "expanded_url": "https://x.com/Entropy149868/status/2050437925331190184/photo/1",
+          "media_key": "3_2050437919014629376",
+          "start": 15,
+          "url": "https://t.co/5r6ZNb6PTI"
+        },
+        {
+          "display_url": "pic.x.com/5r6ZNb6PTI",
+          "end": 38,
+          "expanded_url": "https://x.com/Entropy149868/status/2050437925331190184/photo/1",
+          "media_key": "3_2050437918481870848",
+          "start": 15,
+          "url": "https://t.co/5r6ZNb6PTI"
+        },
+        {
+          "display_url": "pic.x.com/5r6ZNb6PTI",
+          "end": 38,
+          "expanded_url": "https://x.com/Entropy149868/status/2050437925331190184/photo/1",
+          "media_key": "3_2050437921828913152",
+          "start": 15,
+          "url": "https://t.co/5r6ZNb6PTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050437925331190184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "肌肉注射dpt25mg试试水 https://t.co/5r6ZNb6PTI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050437919014629376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSebHTbsAAgQW4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050437918481870848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSebFUacAAAEpS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050437921828913152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSebRyaQAAh64Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050437919014629376",
+            "3_2050437918481870848",
+            "3_2050437921828913152"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050437925331190184",
+        "created_at": "2026-05-02T04:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050437925331190184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5r6ZNb6PTI",
+              "end": 38,
+              "expanded_url": "https://x.com/Entropy149868/status/2050437925331190184/photo/1",
+              "media_key": "3_2050437919014629376",
+              "start": 15,
+              "url": "https://t.co/5r6ZNb6PTI"
+            },
+            {
+              "display_url": "pic.x.com/5r6ZNb6PTI",
+              "end": 38,
+              "expanded_url": "https://x.com/Entropy149868/status/2050437925331190184/photo/1",
+              "media_key": "3_2050437918481870848",
+              "start": 15,
+              "url": "https://t.co/5r6ZNb6PTI"
+            },
+            {
+              "display_url": "pic.x.com/5r6ZNb6PTI",
+              "end": 38,
+              "expanded_url": "https://x.com/Entropy149868/status/2050437925331190184/photo/1",
+              "media_key": "3_2050437921828913152",
+              "start": 15,
+              "url": "https://t.co/5r6ZNb6PTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050437925331190184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肌肉注射dpt25mg试试水 https://t.co/5r6ZNb6PTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 426,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 468
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

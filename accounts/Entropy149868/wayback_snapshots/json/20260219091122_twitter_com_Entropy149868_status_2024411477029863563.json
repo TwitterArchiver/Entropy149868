@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2024049125457821776",
+    "created_at": "2026-02-19T09:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024411477029863563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944225210284314624",
+          "start": 0,
+          "username": "NMD_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024411477029863563",
+    "in_reply_to_user_id": "1944225210284314624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024049125457821776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NMD_China 并非无痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2177,
+        "media_key": "3_2024049004036898816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbd2GWaQAAKyY3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2061,
+        "media_key": "3_2024049004041191424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbd2GXbwAAxooz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1877,
+        "media_key": "3_2024049004053753856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbd2GabcAA3aG9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2240,
+        "media_key": "3_2024049052200177664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbd45xbkAA8jHT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2024049125457821776",
+        "created_at": "2026-02-19T09:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024411477029863563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944225210284314624",
+              "start": 0,
+              "username": "NMD_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024411477029863563",
+        "in_reply_to_user_id": "1944225210284314624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024049125457821776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_China 并非无痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024049004036898816",
+            "3_2024049004041191424",
+            "3_2024049004053753856",
+            "3_2024049052200177664"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024049125457821776",
+        "created_at": "2026-02-18T09:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024049125457821776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6S9AoxSaRd",
+              "end": 32,
+              "expanded_url": "https://x.com/NMD_China/status/2024049125457821776/photo/1",
+              "media_key": "3_2024049004036898816",
+              "start": 9,
+              "url": "https://t.co/6S9AoxSaRd"
+            },
+            {
+              "display_url": "pic.x.com/6S9AoxSaRd",
+              "end": 32,
+              "expanded_url": "https://x.com/NMD_China/status/2024049125457821776/photo/1",
+              "media_key": "3_2024049004041191424",
+              "start": 9,
+              "url": "https://t.co/6S9AoxSaRd"
+            },
+            {
+              "display_url": "pic.x.com/6S9AoxSaRd",
+              "end": 32,
+              "expanded_url": "https://x.com/NMD_China/status/2024049125457821776/photo/1",
+              "media_key": "3_2024049004053753856",
+              "start": 9,
+              "url": "https://t.co/6S9AoxSaRd"
+            },
+            {
+              "display_url": "pic.x.com/6S9AoxSaRd",
+              "end": 32,
+              "expanded_url": "https://x.com/NMD_China/status/2024049125457821776/photo/1",
+              "media_key": "3_2024049052200177664",
+              "start": 9,
+              "url": "https://t.co/6S9AoxSaRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024049125457821776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10886,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这种账号是何意味 https://t.co/6S9AoxSaRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994944756208521216/y_uEvLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 36,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "波尔布特|包蜜|面向未来，目光如炬|入🚪89.64|主人@TheNan19930731|不互fo找自己问题|锁推的和三无号去死|永远是你的波头鹰|加速！加速！崩溃！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "TheNan19930731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "波89头64鹰🇰🇭",
+        "pinned_tweet_id": "2020139501327192168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009065279201095680/OWiNletC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 698,
+          "like_count": 126532,
+          "listed_count": 28,
+          "media_count": 1143,
+          "tweet_count": 4632
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2034439065144324262",
+    "created_at": "2026-03-19T04:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034491264788541698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022980944723095552",
+          "start": 0,
+          "username": "tanka_TWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034491264788541698",
+    "in_reply_to_user_id": "2022980944723095552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034439065144324262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanka_TWT 1161哪买的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2034439065144324262",
+        "created_at": "2026-03-19T04:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034491264788541698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022980944723095552",
+              "start": 0,
+              "username": "tanka_TWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034491264788541698",
+        "in_reply_to_user_id": "2022980944723095552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034439065144324262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanka_TWT 1161哪买的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022980944723095552",
+        "conversation_id": "2034439065144324262",
+        "created_at": "2026-03-19T01:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034439065144324262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034439065144324262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我必须开始做事了但是一直瞳孔散大无法聚焦 搞得我想打一针1161缩瞳了 其实还在幻但我没血清素下机药…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 205,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 168
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T10:27:07.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼\n/cptsd 因創傷而躲藏\n/FOW參與者 接受藥物報告投稿及咨詢\n/已逝的愛人@Edward_8964\n/有什么事跟我的1161说去吧！！\n/提問箱https://t.co/Nz6tp4jZsY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 121,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 98,
+                "url": "https://t.co/Nz6tp4jZsY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/J3Aw5nOZQt"
+              }
+            ]
+          }
+        },
+        "id": "2022980944723095552",
+        "name": "滅死炭",
+        "pinned_tweet_id": "2032439798405964212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 179,
+          "like_count": 673,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/J3Aw5nOZQt",
+        "username": "tanka_TWT",
+        "verified": false
+      }
+    ]
+  }
+}

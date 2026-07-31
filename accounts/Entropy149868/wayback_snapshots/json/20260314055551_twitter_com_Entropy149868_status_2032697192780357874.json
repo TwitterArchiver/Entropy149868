@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2032697192780357874",
+    "created_at": "2026-03-14T05:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T06:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032697192780357874"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "门槛"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "女高"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "小狗"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1555622253806493696",
+          "start": 3,
+          "username": "Kaed3_tachibanA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032697192780357874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032428293681819663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaed3_tachibanA: 我好满意p1我要摆置顶，以及↓\n可是我真的没钱吃饭没钱看病没钱od了。52🚪\n然后50r文爱半小时，30r半绿陪聊半小时\n不线下不视频有图我是死人感女高工作日在线时间较短随机掉落一些奶照只拍发自己喜欢的\n#门槛 #女高 #小狗 #调教…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032697192780357874].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032697192780357874",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032697192780357874"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2032428289311256576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSiwsfaMAAdI25.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032428290229850112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSiwv6a0AA0VGa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032428289311256576",
+            "3_2032428290229850112"
+          ]
+        },
+        "author_id": "1555622253806493696",
+        "conversation_id": "2032428293681819663",
+        "created_at": "2026-03-13T12:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032428293681819663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "门槛"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "女高"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "小狗"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "调教"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "文爱"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "巨乳"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "陪聊"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "线上女友"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "线上"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ociAi2Azto",
+              "end": 173,
+              "expanded_url": "https://x.com/Kaed3_tachibanA/status/2032428293681819663/photo/1",
+              "media_key": "3_2032428289311256576",
+              "start": 150,
+              "url": "https://t.co/ociAi2Azto"
+            },
+            {
+              "display_url": "pic.x.com/ociAi2Azto",
+              "end": 173,
+              "expanded_url": "https://x.com/Kaed3_tachibanA/status/2032428293681819663/photo/1",
+              "media_key": "3_2032428290229850112",
+              "start": 150,
+              "url": "https://t.co/ociAi2Azto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032428293681819663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好满意p1我要摆置顶，以及↓\n可是我真的没钱吃饭没钱看病没钱od了。52🚪\n然后50r文爱半小时，30r半绿陪聊半小时\n不线下不视频有图我是死人感女高工作日在线时间较短随机掉落一些奶照只拍发自己喜欢的\n#门槛 #女高 #小狗 #调教 #文爱  #门槛妹  #巨乳  #陪聊  #线上女友  #线上 https://t.co/ociAi2Azto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031261004290506752/gM3ipNJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 156,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 118
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T18:30:29.000Z",
+        "description": "==橘楓/楓橘｜本垢｜精神障害⚠️⚠️(治療中)｜CAN / MAN / EN / 簡単な日本語｜挨拶不要｜Pansexual 🩷💛🩵｜💊＆🩸注意‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Kaed3_tachibanA",
+                "end": 23,
+                "expanded_url": "https://lit.link/Kaed3_tachibanA",
+                "start": 0,
+                "url": "https://t.co/YvOv7ErSJK"
+              }
+            ]
+          }
+        },
+        "id": "1555622253806493696",
+        "location": "天国",
+        "name": "ᐕ)ﾉ",
+        "pinned_tweet_id": "2032428293681819663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894256078331727872/WBB_Tgde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 136,
+          "like_count": 39973,
+          "listed_count": 0,
+          "media_count": 1747,
+          "tweet_count": 19609
+        },
+        "url": "https://t.co/YvOv7ErSJK",
+        "username": "Kaed3_tachibanA",
+        "verified": false
+      }
+    ]
+  }
+}

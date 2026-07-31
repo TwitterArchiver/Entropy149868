@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2052630156288704538",
+    "created_at": "2026-05-09T12:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053094082940137910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1855263043053395968",
+          "start": 0,
+          "username": "MYBLOODY_VALENT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053094082940137910",
+    "in_reply_to_user_id": "1855263043053395968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052630156288704538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MYBLOODY_VALENT 帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052630153180626949",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxoP7-WQAUVTdX.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2052630156288704538",
+        "created_at": "2026-05-09T12:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053094082940137910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1855263043053395968",
+              "start": 0,
+              "username": "MYBLOODY_VALENT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053094082940137910",
+        "in_reply_to_user_id": "1855263043053395968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052630156288704538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MYBLOODY_VALENT 帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052630153180626949"
+          ]
+        },
+        "author_id": "1855263043053395968",
+        "conversation_id": "2052630156288704538",
+        "created_at": "2026-05-08T06:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052630156288704538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMNnpcpTqX",
+              "end": 23,
+              "expanded_url": "https://x.com/MYBLOODY_VALENT/status/2052630156288704538/photo/1",
+              "media_key": "3_2052630153180626949",
+              "start": 0,
+              "url": "https://t.co/lMNnpcpTqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052630156288704538",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 470,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lMNnpcpTqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 448,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 505
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T14:56:05.000Z",
+        "description": "",
+        "id": "1855263043053395968",
+        "name": "&",
+        "pinned_tweet_id": "1971674370172129422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971691958805381120/l17O4kkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 178,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 344
+        },
+        "username": "MYBLOODY_VALENT",
+        "verified": false
+      }
+    ]
+  }
+}

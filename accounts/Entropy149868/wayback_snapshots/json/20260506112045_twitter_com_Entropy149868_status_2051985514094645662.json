@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2051269253563580504",
+    "created_at": "2026-05-06T11:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051985514094645662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622324541979754497",
+          "start": 0,
+          "username": "Googoo_Wuuu"
+        },
+        {
+          "end": 24,
+          "id": "791197",
+          "start": 13,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051985514094645662",
+    "in_reply_to_user_id": "1622324541979754497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051725534711955950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Googoo_Wuuu @bbcchinese 难绷，致幻剂没有生理性成瘾的，跟海洛因这种阿片类差远了。致幻剂大多作用于血清素系统，而很多抗抑郁药也是作用于血清素系统"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2051269253563580504",
+        "created_at": "2026-05-06T11:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051985514094645662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622324541979754497",
+              "start": 0,
+              "username": "Googoo_Wuuu"
+            },
+            {
+              "end": 24,
+              "id": "791197",
+              "start": 13,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051985514094645662",
+        "in_reply_to_user_id": "1622324541979754497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051725534711955950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Googoo_Wuuu @bbcchinese 难绷，致幻剂没有生理性成瘾的，跟海洛因这种阿片类差远了。致幻剂大多作用于血清素系统，而很多抗抑郁药也是作用于血清素系统"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622324541979754497",
+        "conversation_id": "2051269253563580504",
+        "created_at": "2026-05-05T18:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051725534711955950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051725534711955950",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051269253563580504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 此法在海洛因戒除吗啡毒瘾 已有记载"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 434,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 480
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T20:01:37.000Z",
+        "description": "googoo | 🔮 邪恶毒蘑菇🍄‍🟫 | AI/ML Engineer | 🇸🇬 OL | She/They",
+        "id": "1622324541979754497",
+        "location": "Singapore",
+        "name": "黑暗之母·蛋糕·菇菇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007853652011364352/akqc5m-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 397,
+          "like_count": 19151,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 3340
+        },
+        "username": "Googoo_Wuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5248024,
+          "following_count": 73,
+          "like_count": 61,
+          "listed_count": 12136,
+          "media_count": 24690,
+          "tweet_count": 155695
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

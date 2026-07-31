@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057417801489686528"
+      ],
+      "media_source_tweet_id": [
+        "2057417823782392152"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2058109231375728649",
+    "created_at": "2026-05-23T08:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058109231375728649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029564091237584896",
+          "start": 3,
+          "username": "hami00763"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PckYBSLMBX",
+          "end": 38,
+          "expanded_url": "https://x.com/hami00763/status/2057417823782392152/photo/1",
+          "media_key": "3_2057417801489686528",
+          "start": 15,
+          "url": "https://t.co/PckYBSLMBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058109231375728649",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1301
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057417823782392152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hami00763: https://t.co/PckYBSLMBX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2057417801489686528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1qlvxboAAQCmn.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057417801489686528"
+          ],
+          "media_source_tweet_id": [
+            "2057417823782392152"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2058109231375728649",
+        "created_at": "2026-05-23T08:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058109231375728649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029564091237584896",
+              "start": 3,
+              "username": "hami00763"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PckYBSLMBX",
+              "end": 38,
+              "expanded_url": "https://x.com/hami00763/status/2057417823782392152/photo/1",
+              "media_key": "3_2057417801489686528",
+              "start": 15,
+              "url": "https://t.co/PckYBSLMBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058109231375728649",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1301
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057417823782392152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hami00763: https://t.co/PckYBSLMBX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057417801489686528"
+          ]
+        },
+        "author_id": "2029564091237584896",
+        "conversation_id": "2057417823782392152",
+        "created_at": "2026-05-21T11:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057417823782392152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PckYBSLMBX",
+              "end": 23,
+              "expanded_url": "https://x.com/hami00763/status/2057417823782392152/photo/1",
+              "media_key": "3_2057417801489686528",
+              "start": 0,
+              "url": "https://t.co/PckYBSLMBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057417823782392152",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 700,
+          "impression_count": 61848,
+          "like_count": 10136,
+          "quote_count": 16,
+          "reply_count": 14,
+          "retweet_count": 1301
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PckYBSLMBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "精神病院",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 458,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 545
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T14:26:27.000Z",
+        "description": "@hami0076",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hami0076"
+              }
+            ]
+          }
+        },
+        "id": "2029564091237584896",
+        "name": "はみ3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056589765294903296/DzxKF9A4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 75,
+          "like_count": 741,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 236
+        },
+        "username": "hami00763",
+        "verified": false
+      }
+    ]
+  }
+}

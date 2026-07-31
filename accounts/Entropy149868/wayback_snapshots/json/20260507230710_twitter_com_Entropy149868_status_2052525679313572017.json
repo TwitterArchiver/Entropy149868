@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2052413549553844516",
+    "created_at": "2026-05-07T23:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T00:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052525679313572017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2052312493167656960",
+          "start": 0,
+          "username": "Constantin82816"
+        },
+        {
+          "end": 27,
+          "id": "1903459467230072832",
+          "start": 17,
+          "username": "LaptiReed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052525679313572017",
+    "in_reply_to_user_id": "2052312493167656960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052413549553844516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Constantin82816 @LaptiReed 原来是这个李文亚，要是真李文亚教授被晶了才好呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2052413549553844516",
+        "created_at": "2026-05-07T23:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052525679313572017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052312493167656960",
+              "start": 0,
+              "username": "Constantin82816"
+            },
+            {
+              "end": 27,
+              "id": "1903459467230072832",
+              "start": 17,
+              "username": "LaptiReed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052525679313572017",
+        "in_reply_to_user_id": "2052312493167656960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052413549553844516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Constantin82816 @LaptiReed 原来是这个李文亚，要是真李文亚教授被晶了才好呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052312493167656960",
+        "conversation_id": "2052413549553844516",
+        "created_at": "2026-05-07T15:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052413549553844516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1903459467230072832",
+              "start": 15,
+              "username": "LaptiReed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052413549553844516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 412,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家晚上好\n超级李李李文亚教授@LaptiReed于今日下午遇晶，设备被扣留，账号生死不明，友人初步排查了危险，但仍有可能再此处于警方控制当中\n请勿轻信其账号发布的各种言论，如有关系者请尽快切割喵\n😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 445,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 497
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T09:01:08.000Z",
+        "description": "惟郢路之遼遠兮，江與夏之不可涉",
+        "id": "2052312493167656960",
+        "name": "回风Lament#大陵五",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052394391671898113/46wng0M9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Constantin82816",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T14:52:40.000Z",
+        "description": "三百年来伤国步\n八千里外吊民残",
+        "id": "1903459467230072832",
+        "location": "in terra longinqua…",
+        "name": "Historiacus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040943996101611520/YwE7uX_6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 72,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 163
+        },
+        "username": "LaptiReed",
+        "verified": false
+      }
+    ]
+  }
+}

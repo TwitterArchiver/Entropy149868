@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2040365122309505351",
+    "created_at": "2026-04-04T09:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040365122309505351"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040365122309505351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《od不是好东西》\n眼睛毁在od上\n学习烂在od上\n肠胃用在od上\n大脑坏在od上\n男娘花在od上\n地雷玩在od上\n孩子废在od上\n还有死在od上\n谁发明，了od\n干掉了社交和娱乐\n以前情侣不离弃\n现在天天在od"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2040365122309505351",
+        "created_at": "2026-04-04T09:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040365122309505351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040365122309505351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《od不是好东西》\n眼睛毁在od上\n学习烂在od上\n肠胃用在od上\n大脑坏在od上\n男娘花在od上\n地雷玩在od上\n孩子废在od上\n还有死在od上\n谁发明，了od\n干掉了社交和娱乐\n以前情侣不离弃\n现在天天在od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 283,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 262
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

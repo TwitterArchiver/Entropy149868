@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2047967732424220971",
+    "created_at": "2026-04-26T05:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048272722657255603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809498682259279872",
+          "start": 0,
+          "username": "Kahlifa_fuxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048272722657255603",
+    "in_reply_to_user_id": "1809498682259279872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048252012962463989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kahlifa_fuxk 对，我吃的是50片复方甘草片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2047967732424220971",
+        "created_at": "2026-04-26T05:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048272722657255603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809498682259279872",
+              "start": 0,
+              "username": "Kahlifa_fuxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048272722657255603",
+        "in_reply_to_user_id": "1809498682259279872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048252012962463989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kahlifa_fuxk 对，我吃的是50片复方甘草片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809498682259279872",
+        "conversation_id": "2047967732424220971",
+        "created_at": "2026-04-26T04:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048252012962463989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048252012962463989",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047967732424220971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 pr➕复方，一起么？ 多少T复方量呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 399,
+          "like_count": 900,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 449
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T08:04:57.000Z",
+        "description": "Hey.  Look at me fuxk on me",
+        "id": "1809498682259279872",
+        "location": "Kowloon City District",
+        "name": "Kahlifa@fuxk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809498819434098688/Y_ueXo0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 70,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "Kahlifa_fuxk",
+        "verified": false
+      }
+    ]
+  }
+}

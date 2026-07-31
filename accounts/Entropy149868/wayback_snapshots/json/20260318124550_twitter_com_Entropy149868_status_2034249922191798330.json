@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2034196208022118767",
+    "created_at": "2026-03-18T12:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T13:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034249922191798330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018661808207511552",
+          "start": 0,
+          "username": "lingunio1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034249922191798330",
+    "in_reply_to_user_id": "2018661808207511552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034240126671626740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingunio1 搜二丙基色胺啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2034196208022118767",
+        "created_at": "2026-03-18T12:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034249922191798330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018661808207511552",
+              "start": 0,
+              "username": "lingunio1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034249922191798330",
+        "in_reply_to_user_id": "2018661808207511552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034240126671626740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingunio1 搜二丙基色胺啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018661808207511552",
+        "conversation_id": "2034196208022118767",
+        "created_at": "2026-03-18T12:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034240126671626740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034240126671626740",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034239828121006267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 搜什么呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 204,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 167
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T12:24:22.000Z",
+        "description": "小伶 165/50kg ip重庆 半/纯绿bbh 纯绿🚪88 半绿🚪150/266/520/1314 重抑中焦 od 餐券女 只fo女和鉴区 不互转 只收口令 详情在置顶 (ㅎㅎ)",
+        "id": "2018661808207511552",
+        "location": "0.2km",
+        "name": "伶伶伶3.0",
+        "pinned_tweet_id": "2030941993048936828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019783901456273408/XZq2sgIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 35,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 316
+        },
+        "username": "lingunio1",
+        "verified": false
+      }
+    ]
+  }
+}

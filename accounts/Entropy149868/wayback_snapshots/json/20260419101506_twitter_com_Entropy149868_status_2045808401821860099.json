@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2045416714326970378",
+    "created_at": "2026-04-19T10:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045808401821860099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044884002948214784",
+          "start": 0,
+          "username": "ZaZa89ta"
+        },
+        {
+          "end": 18,
+          "id": "2004802306873982977",
+          "start": 10,
+          "username": "Len10x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045808401821860099",
+    "in_reply_to_user_id": "2044884002948214784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045416714326970378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaZa89ta @Len10x0 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2045416703031730176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLHp4HbYAAYCQH.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2045416714326970378",
+        "created_at": "2026-04-19T10:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045808401821860099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044884002948214784",
+              "start": 0,
+              "username": "ZaZa89ta"
+            },
+            {
+              "end": 18,
+              "id": "2004802306873982977",
+              "start": 10,
+              "username": "Len10x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045808401821860099",
+        "in_reply_to_user_id": "2044884002948214784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045416714326970378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaZa89ta @Len10x0 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045416703031730176"
+          ]
+        },
+        "author_id": "2044884002948214784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045416714326970378",
+        "created_at": "2026-04-18T08:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045416714326970378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NCcNOCUKJ",
+              "end": 31,
+              "expanded_url": "https://x.com/ZaZa89ta/status/2045416714326970378/photo/1",
+              "media_key": "3_2045416703031730176",
+              "start": 8,
+              "url": "https://t.co/3NCcNOCUKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045416714326970378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1087,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一百粉我抽十盒 https://t.co/3NCcNOCUKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 359,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 376
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T21:02:17.000Z",
+        "description": "我只是希望我的生活好一点",
+        "id": "2044884002948214784",
+        "name": "ZaZa",
+        "pinned_tweet_id": "2045110549869134017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045097880177049600/8055mIda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 21,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 85
+        },
+        "username": "ZaZa89ta",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "【互fo只回同类/跨性 】一条活着网络的米虫｜高强度上网｜双相｜泛性恋｜11.8.7｜od｜日系｜自伤｜负能｜同类互fo 私信都会看的！很期待你们找我聊天…！匿名：https://t.co/jlxnXZMrxy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haomaomao",
+                "end": 105,
+                "expanded_url": "https://ngl.link/haomaomao",
+                "start": 82,
+                "url": "https://t.co/jlxnXZMrxy"
+              }
+            ]
+          }
+        },
+        "id": "2004802306873982977",
+        "location": "20/25/52🚪",
+        "name": "冷幻觉（恶俗版",
+        "pinned_tweet_id": "2037109529788436642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020745173807026176/0nQdCQ8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 169,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1336
+        },
+        "username": "Len10x0",
+        "verified": false
+      }
+    ]
+  }
+}

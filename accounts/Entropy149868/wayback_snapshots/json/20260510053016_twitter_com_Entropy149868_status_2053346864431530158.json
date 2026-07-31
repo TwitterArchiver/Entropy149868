@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053346854386257920",
+        "3_2053346855850049536"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2053346864431530158",
+    "created_at": "2026-05-10T05:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053346864431530158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JMtu6v2QrL",
+          "end": 30,
+          "expanded_url": "https://x.com/Entropy149868/status/2053346864431530158/photo/1",
+          "media_key": "3_2053346854386257920",
+          "start": 7,
+          "url": "https://t.co/JMtu6v2QrL"
+        },
+        {
+          "display_url": "pic.x.com/JMtu6v2QrL",
+          "end": 30,
+          "expanded_url": "https://x.com/Entropy149868/status/2053346864431530158/photo/1",
+          "media_key": "3_2053346855850049536",
+          "start": 7,
+          "url": "https://t.co/JMtu6v2QrL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053346864431530158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这些是人机吗 https://t.co/JMtu6v2QrL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053346854386257920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH70FcBb0AArFpf.jpg",
+        "width": 958
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053346855850049536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH70FhebgAAMllh.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053346854386257920",
+            "3_2053346855850049536"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2053346864431530158",
+        "created_at": "2026-05-10T05:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053346864431530158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMtu6v2QrL",
+              "end": 30,
+              "expanded_url": "https://x.com/Entropy149868/status/2053346864431530158/photo/1",
+              "media_key": "3_2053346854386257920",
+              "start": 7,
+              "url": "https://t.co/JMtu6v2QrL"
+            },
+            {
+              "display_url": "pic.x.com/JMtu6v2QrL",
+              "end": 30,
+              "expanded_url": "https://x.com/Entropy149868/status/2053346864431530158/photo/1",
+              "media_key": "3_2053346855850049536",
+              "start": 7,
+              "url": "https://t.co/JMtu6v2QrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053346864431530158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些是人机吗 https://t.co/JMtu6v2QrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 448,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 508
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

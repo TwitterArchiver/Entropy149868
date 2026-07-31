@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024370867057418240",
+        "3_2024370868605112320",
+        "3_2024370867527176193",
+        "3_2024370867535564800"
+      ],
+      "media_source_tweet_id": [
+        "2024370895079559671",
+        "2024370895079559671",
+        "2024370895079559671",
+        "2024370895079559671"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024631721686188202",
+    "created_at": "2026-02-19T23:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T00:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024631721686188202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916824571128287232",
+          "start": 3,
+          "username": "Spr1ngWlnd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sSRzVRtO1w",
+          "end": 82,
+          "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+          "media_key": "3_2024370867057418240",
+          "start": 59,
+          "url": "https://t.co/sSRzVRtO1w"
+        },
+        {
+          "display_url": "pic.x.com/sSRzVRtO1w",
+          "end": 82,
+          "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+          "media_key": "3_2024370868605112320",
+          "start": 59,
+          "url": "https://t.co/sSRzVRtO1w"
+        },
+        {
+          "display_url": "pic.x.com/sSRzVRtO1w",
+          "end": 82,
+          "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+          "media_key": "3_2024370867527176193",
+          "start": 59,
+          "url": "https://t.co/sSRzVRtO1w"
+        },
+        {
+          "display_url": "pic.x.com/sSRzVRtO1w",
+          "end": 82,
+          "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+          "media_key": "3_2024370867535564800",
+          "start": 59,
+          "url": "https://t.co/sSRzVRtO1w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024631721686188202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024370895079559671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Spr1ngWlnd: 一氧化碳 能用 买奶油发泡枪\n准备B12 不推荐长期用\n推荐用甲钻胺 推荐和优米联用 https://t.co/sSRzVRtO1w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1353,
+        "media_key": "3_2024370867057418240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgCk_ibYAATVRn.jpg",
+        "width": 720
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2024370868605112320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgClFTbUAArJlx.jpg",
+        "width": 720
+      },
+      {
+        "height": 1391,
+        "media_key": "3_2024370867527176193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgClBSbUAEkldu.jpg",
+        "width": 720
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2024370867535564800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgClBUbUAAlJOu.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024370867057418240",
+            "3_2024370868605112320",
+            "3_2024370867527176193",
+            "3_2024370867535564800"
+          ],
+          "media_source_tweet_id": [
+            "2024370895079559671",
+            "2024370895079559671",
+            "2024370895079559671",
+            "2024370895079559671"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024631721686188202",
+        "created_at": "2026-02-19T23:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T00:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024631721686188202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916824571128287232",
+              "start": 3,
+              "username": "Spr1ngWlnd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 82,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370867057418240",
+              "start": 59,
+              "url": "https://t.co/sSRzVRtO1w"
+            },
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 82,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370868605112320",
+              "start": 59,
+              "url": "https://t.co/sSRzVRtO1w"
+            },
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 82,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370867527176193",
+              "start": 59,
+              "url": "https://t.co/sSRzVRtO1w"
+            },
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 82,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370867535564800",
+              "start": 59,
+              "url": "https://t.co/sSRzVRtO1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024631721686188202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024370895079559671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Spr1ngWlnd: 一氧化碳 能用 买奶油发泡枪\n准备B12 不推荐长期用\n推荐用甲钻胺 推荐和优米联用 https://t.co/sSRzVRtO1w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024370867057418240",
+            "3_2024370868605112320",
+            "3_2024370867527176193",
+            "3_2024370867535564800"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024370895079559671",
+        "created_at": "2026-02-19T06:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024370895079559671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 66,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370867057418240",
+              "start": 43,
+              "url": "https://t.co/sSRzVRtO1w"
+            },
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 66,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370868605112320",
+              "start": 43,
+              "url": "https://t.co/sSRzVRtO1w"
+            },
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 66,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370867527176193",
+              "start": 43,
+              "url": "https://t.co/sSRzVRtO1w"
+            },
+            {
+              "display_url": "pic.x.com/sSRzVRtO1w",
+              "end": 66,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2024370895079559671/photo/1",
+              "media_key": "3_2024370867535564800",
+              "start": 43,
+              "url": "https://t.co/sSRzVRtO1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024370895079559671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4490,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "一氧化碳 能用 买奶油发泡枪\n准备B12 不推荐长期用\n推荐用甲钻胺 推荐和优米联用 https://t.co/sSRzVRtO1w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994944756208521216/y_uEvLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 37,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 27,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 29
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

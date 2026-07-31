@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2057814727154393091",
+    "created_at": "2026-05-23T10:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058127626502578654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1556996088405434368",
+          "start": 0,
+          "username": "XueyanHu8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058127626502578654",
+    "in_reply_to_user_id": "1556996088405434368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057838673648124327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XueyanHu8 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2057814727154393091",
+        "created_at": "2026-05-23T10:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058127626502578654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1556996088405434368",
+              "start": 0,
+              "username": "XueyanHu8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058127626502578654",
+        "in_reply_to_user_id": "1556996088405434368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057838673648124327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XueyanHu8 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556996088405434368",
+        "conversation_id": "2057814727154393091",
+        "created_at": "2026-05-22T14:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057838673648124327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057838673648124327",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057814727154393091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 这人纯他妈活该，所谓丧失自由纯是自己作的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "精神病院",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 459,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 546
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T13:29:55.000Z",
+        "description": "INFP/4w5/原/铁/崩三/舰B",
+        "id": "1556996088405434368",
+        "location": "格陵兰",
+        "name": "晨星Promea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556996197411237888/qfQqWxvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 42,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "XueyanHu8",
+        "verified": false
+      }
+    ]
+  }
+}

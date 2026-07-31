@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2033390906435658089",
+    "created_at": "2026-03-16T03:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T04:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033390906435658089"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "纯绿"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "半绿"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "线下"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "女高"
+        },
+        {
+          "end": 132,
+          "start": 127,
+          "tag": "反差女高"
+        },
+        {
+          "end": 138,
+          "start": 133,
+          "tag": "原味定制"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032420303008370688",
+          "start": 3,
+          "username": "yuzi_su"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033390906435658089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032432274101383500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzi_su: 你好\n我是籽醬 06/162/108\n重度藥物/尼古丁/金錢/依賴 \n你打錢越多我越萌\n我接純綠線下媽媽活₍ᐢ..ᐢ₎♡\n我想要更幸福的生活\n#妈妈活 #门槛妹 #门槛姐 #门槛哥 #ATM奴  #纯绿 #半绿 #线下 #女高 #反差女高 #原味定制…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033390906435658089].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033390906435658089",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033390906435658089"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2032432248927252480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSmXLNbcAAra1O.jpg",
+        "width": 656
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032432254128214016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSmXelb0AAmhET.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2032432254161735682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSmXetbUAIVjSN.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2032432254178516992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSmXexbYAAtPAY.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032432248927252480",
+            "3_2032432254128214016",
+            "3_2032432254161735682",
+            "3_2032432254178516992"
+          ]
+        },
+        "author_id": "2032420303008370688",
+        "conversation_id": "2032432274101383500",
+        "created_at": "2026-03-13T12:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032432274101383500"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "纯绿"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "半绿"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "线下"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "女高"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "反差女高"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "原味定制"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EN0s20KhK7",
+              "end": 154,
+              "expanded_url": "https://x.com/yuzi_su/status/2032432274101383500/photo/1",
+              "media_key": "3_2032432248927252480",
+              "start": 131,
+              "url": "https://t.co/EN0s20KhK7"
+            },
+            {
+              "display_url": "pic.x.com/EN0s20KhK7",
+              "end": 154,
+              "expanded_url": "https://x.com/yuzi_su/status/2032432274101383500/photo/1",
+              "media_key": "3_2032432254128214016",
+              "start": 131,
+              "url": "https://t.co/EN0s20KhK7"
+            },
+            {
+              "display_url": "pic.x.com/EN0s20KhK7",
+              "end": 154,
+              "expanded_url": "https://x.com/yuzi_su/status/2032432274101383500/photo/1",
+              "media_key": "3_2032432254161735682",
+              "start": 131,
+              "url": "https://t.co/EN0s20KhK7"
+            },
+            {
+              "display_url": "pic.x.com/EN0s20KhK7",
+              "end": 154,
+              "expanded_url": "https://x.com/yuzi_su/status/2032432274101383500/photo/1",
+              "media_key": "3_2032432254178516992",
+              "start": 131,
+              "url": "https://t.co/EN0s20KhK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032432274101383500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2935,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "你好\n我是籽醬 06/162/108\n重度藥物/尼古丁/金錢/依賴 \n你打錢越多我越萌\n我接純綠線下媽媽活₍ᐢ..ᐢ₎♡\n我想要更幸福的生活\n#妈妈活 #门槛妹 #门槛姐 #门槛哥 #ATM奴  #纯绿 #半绿 #线下 #女高 #反差女高 #原味定制 #爸爸活 https://t.co/EN0s20KhK7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol女同",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 171,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 138
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T11:35:58.000Z",
+        "description": "這裡是籽，里垢注意⚠🔞請注意 老鼠系女子🐭，可互fo互轉，尼古丁/酒精/藥物/自殘/金錢",
+        "id": "2032420303008370688",
+        "location": "距離您100km 【查詢請支付費用】",
+        "name": "薬種💊",
+        "pinned_tweet_id": "2032432274101383500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032423031994490880/UE5JWRJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 25,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 73
+        },
+        "username": "yuzi_su",
+        "verified": false
+      }
+    ]
+  }
+}

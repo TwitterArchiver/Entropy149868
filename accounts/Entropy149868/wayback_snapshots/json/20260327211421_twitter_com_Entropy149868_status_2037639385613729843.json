@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2037639385613729843",
+    "created_at": "2026-03-27T21:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T22:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037639385613729843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3387321771",
+          "start": 3,
+          "username": "EZoutis777"
+        },
+        {
+          "end": 32,
+          "id": "1757710478610972672",
+          "start": 16,
+          "username": "foreversungbaek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037639385613729843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037476731398083002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EZoutis777: @foreversungbaek 做不了脑力劳动又不能吃苦就只能被操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2037639385613729843",
+        "created_at": "2026-03-27T21:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T22:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037639385613729843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3387321771",
+              "start": 3,
+              "username": "EZoutis777"
+            },
+            {
+              "end": 32,
+              "id": "1757710478610972672",
+              "start": 16,
+              "username": "foreversungbaek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037639385613729843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037476731398083002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EZoutis777: @foreversungbaek 做不了脑力劳动又不能吃苦就只能被操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3387321771",
+        "conversation_id": "2037206018120425976",
+        "created_at": "2026-03-27T10:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037476731398083002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757710478610972672",
+              "start": 0,
+              "username": "foreversungbaek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037476731398083002",
+        "in_reply_to_user_id": "1757710478610972672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2130,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037206018120425976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreversungbaek 做不了脑力劳动又不能吃苦就只能被操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 237,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 224
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-22T14:19:55.000Z",
+        "description": "我幸福的话 别人痛苦也可以",
+        "id": "3387321771",
+        "name": "莎末",
+        "pinned_tweet_id": "2015255143353295134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013957184808513536/hbZFNgRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 10,
+          "like_count": 1105,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1239
+        },
+        "username": "EZoutis777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T10:17:01.000Z",
+        "description": "爱看帅哥不是我的错 喜欢搞黄不是我的错 爱发一些美女 欢迎善用私信 没回就是被吞了请评论区告知 不关注不回复",
+        "id": "1757710478610972672",
+        "location": "600m",
+        "name": "我喜欢男高男大男研如何呢",
+        "pinned_tweet_id": "1867606742336500212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037563883892924416/E4ObzQ1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6810,
+          "following_count": 275,
+          "like_count": 1472,
+          "listed_count": 16,
+          "media_count": 200,
+          "tweet_count": 2803
+        },
+        "username": "foreversungbaek",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034552377542660096",
+        "3_2034552374891823104"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034552382307336330",
+    "created_at": "2026-03-19T08:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T09:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034552382307336330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0kNcKbHL3g",
+          "end": 68,
+          "expanded_url": "https://x.com/Entropy149868/status/2034552382307336330/photo/1",
+          "media_key": "3_2034552377542660096",
+          "start": 45,
+          "url": "https://t.co/0kNcKbHL3g"
+        },
+        {
+          "display_url": "pic.x.com/0kNcKbHL3g",
+          "end": 68,
+          "expanded_url": "https://x.com/Entropy149868/status/2034552382307336330/photo/1",
+          "media_key": "3_2034552374891823104",
+          "start": 45,
+          "url": "https://t.co/0kNcKbHL3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034552382307336330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晒一下以前买到的策划药，非常便宜这么多才60，是兴奋剂。。可是如今买这个的人已经不在了。 https://t.co/0kNcKbHL3g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034552377542660096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwum5xbUAASt_o.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034552374891823104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwumv5awAAlfx4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034552377542660096",
+            "3_2034552374891823104"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034552382307336330",
+        "created_at": "2026-03-19T08:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034552382307336330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kNcKbHL3g",
+              "end": 68,
+              "expanded_url": "https://x.com/Entropy149868/status/2034552382307336330/photo/1",
+              "media_key": "3_2034552377542660096",
+              "start": 45,
+              "url": "https://t.co/0kNcKbHL3g"
+            },
+            {
+              "display_url": "pic.x.com/0kNcKbHL3g",
+              "end": 68,
+              "expanded_url": "https://x.com/Entropy149868/status/2034552382307336330/photo/1",
+              "media_key": "3_2034552374891823104",
+              "start": 45,
+              "url": "https://t.co/0kNcKbHL3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034552382307336330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晒一下以前买到的策划药，非常便宜这么多才60，是兴奋剂。。可是如今买这个的人已经不在了。 https://t.co/0kNcKbHL3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 205,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 171
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

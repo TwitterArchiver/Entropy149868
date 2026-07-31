@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2042450452810518530",
+    "created_at": "2026-04-10T11:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042566539069788352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845786359082135552",
+          "start": 0,
+          "username": "Fluttermori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042566539069788352",
+    "in_reply_to_user_id": "1845786359082135552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042450452810518530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fluttermori 我想过一段时间的正常生活，我不想融入正常生活，我想体验正常生活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2042450452810518530",
+        "created_at": "2026-04-10T11:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042566539069788352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845786359082135552",
+              "start": 0,
+              "username": "Fluttermori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042566539069788352",
+        "in_reply_to_user_id": "1845786359082135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042450452810518530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fluttermori 我想过一段时间的正常生活，我不想融入正常生活，我想体验正常生活。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845786359082135552",
+        "conversation_id": "2042450452810518530",
+        "created_at": "2026-04-10T03:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042450452810518530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042450452810518530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3574,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果可以过正常生活大家会选择去过吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 326,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 301
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T11:19:12.000Z",
+        "description": "碎碎念=ᗜωᗜ= /对你有兴趣会互fo /现生刷到请保持边界感/不线下/不礼貌拉黑/分身@phyuyomore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "phyuyomore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/puyo23953",
+                "end": 23,
+                "expanded_url": "https://ngl.link/puyo23953",
+                "start": 0,
+                "url": "https://t.co/7vIC1YhHkG"
+              }
+            ]
+          }
+        },
+        "id": "1845786359082135552",
+        "location": "🚪好友位88",
+        "name": "ぷよ",
+        "pinned_tweet_id": "2010715318365348314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005284831522127872/Zk63-t7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 180,
+          "like_count": 4210,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 2192
+        },
+        "url": "https://t.co/7vIC1YhHkG",
+        "username": "Fluttermori",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2026797711438016613",
+    "created_at": "2026-02-27T08:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027302445089775786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026095447190958080",
+          "start": 0,
+          "username": "Kusutobi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027302445089775786",
+    "in_reply_to_user_id": "2026095447190958080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026797711438016613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi5 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2026797711438016613",
+        "created_at": "2026-02-27T08:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027302445089775786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026095447190958080",
+              "start": 0,
+              "username": "Kusutobi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027302445089775786",
+        "in_reply_to_user_id": "2026095447190958080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026797711438016613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi5 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026095447190958080",
+        "conversation_id": "2026797711438016613",
+        "created_at": "2026-02-25T23:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T00:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026797711438016613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "If you have Telegram, you can contact @NY_rc right",
+              "display_url": "t.me/NY_rc",
+              "end": 144,
+              "expanded_url": "https://t.me/NY_rc",
+              "start": 121,
+              "status": 200,
+              "title": "Telegram: Contact @NY_rc",
+              "unwound_url": "https://t.me/NY_rc",
+              "url": "https://t.co/hKyKkpATIK"
+            },
+            {
+              "description": "自由是焦虑的眩晕",
+              "display_url": "t.me/Kusutobi",
+              "end": 177,
+              "expanded_url": "http://t.me/Kusutobi",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2024744123853418497/Jt3ZDpNs?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024744123853418497/Jt3ZDpNs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 154,
+              "status": 200,
+              "title": "楠鸢",
+              "unwound_url": "https://t.me/Kusutobi",
+              "url": "https://t.co/x8TX6K7HpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026797711438016613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2480,
+          "like_count": 15,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "历经四次炸号为了找回fo于是准备了楠鸢的抽奖第二弹🥰🥰🥰\n一等奖 QZkago一份\n二等奖 潘多拉一份\n三等奖x2 virtus两份或者50rmb（zfb口令）\n参加条件只需要点赞评论关注转发这条帖🤓一周后抽奖截止 有想了解产品介绍的可以加群https://t.co/hKyKkpATIK或者私信这个号或者我https://t.co/x8TX6K7HpI🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Anhui Sheng, China",
+              "geo": {
+                "coordinates": [
+                  117.0,
+                  32.0
+                ],
+                "type": "Point"
+              },
+              "region": "Anhui Sheng"
+            }
+          ]
+        },
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994944756208521216/y_uEvLWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 42,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 52
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T00:43:02.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/只发发日常或者有关NY化学的内容/可咨询药物或者产品问题/被封四次了详细产品咨询清私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/kg5CHNz7aw"
+              }
+            ]
+          }
+        },
+        "id": "2026095447190958080",
+        "name": "楠鸢Kusutobi",
+        "pinned_tweet_id": "2026797711438016613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026095573279870976/AON9yox0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 18,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/kg5CHNz7aw",
+        "username": "Kusutobi5",
+        "verified": false
+      }
+    ]
+  }
+}

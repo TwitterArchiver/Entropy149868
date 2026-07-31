@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054371063346425856"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2054371073739948111",
+    "created_at": "2026-05-13T01:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054371073739948111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WByrTvtvl3",
+          "end": 41,
+          "expanded_url": "https://x.com/Entropy149868/status/2054371073739948111/photo/1",
+          "media_key": "3_2054371063346425856",
+          "start": 18,
+          "url": "https://t.co/WByrTvtvl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054371073739948111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "空腹服用，可以联用烟草或咖啡因饮品 https://t.co/WByrTvtvl3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054371063346425856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKXmPua8AA5vx_.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054371063346425856"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2054371073739948111",
+        "created_at": "2026-05-13T01:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054371073739948111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WByrTvtvl3",
+              "end": 41,
+              "expanded_url": "https://x.com/Entropy149868/status/2054371073739948111/photo/1",
+              "media_key": "3_2054371063346425856",
+              "start": 18,
+              "url": "https://t.co/WByrTvtvl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054371073739948111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "空腹服用，可以联用烟草或咖啡因饮品 https://t.co/WByrTvtvl3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 449,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 524
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}
