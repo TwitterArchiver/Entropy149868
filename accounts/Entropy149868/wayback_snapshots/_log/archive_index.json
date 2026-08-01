@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T03:02:14",
+  "last_updated": "2026-08-01T03:02:40",
   "html": {
     "https://web.archive.org/web/20260207085455if_/https://twitter.com/Entropy149868/status/2020058684634845272": {
       "status": "done",
@@ -4988,27 +4988,27 @@
       "referenced_by": [
         "20260306150834_twitter_com_Entropy149868_status_2029937189279219763.json"
       ],
-      "last_updated": "2026-08-01T02:47:05",
+      "last_updated": "2026-08-01T03:02:30",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260306150834/https://video.twimg.com/amplify_video/1962242694874529792/vid/avc1/720x866/0mhqswsBN31h952Y.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2034034777213284352/vid/avc1/872x490/hQ0WOM6cx5awKy5Q.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260318101715_twitter_com_Entropy149868_status_2034212529547948135.json"
       ],
-      "last_updated": "2026-08-01T02:47:05",
+      "last_updated": "2026-08-01T03:02:33",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260318101715/https://video.twimg.com/amplify_video/2034034777213284352/vid/avc1/872x490/hQ0WOM6cx5awKy5Q.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2034034777221627904/vid/avc1/1280x720/7TrqjApRSHmGeVpX.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260318101715_twitter_com_Entropy149868_status_2034212529547948135.json"
       ],
-      "last_updated": "2026-08-01T02:47:07",
+      "last_updated": "2026-08-01T03:02:36",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260318101715/https://video.twimg.com/amplify_video/2034034777221627904/vid/avc1/1280x720/7TrqjApRSHmGeVpX.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2036068200358817792/vid/avc1/1070x1070/7R8xJ1YqJrRf8cgh.mp4": {
       "status": "done",
@@ -5018,13 +5018,13 @@
       "last_updated": "2026-08-01T02:47:03"
     },
     "https://video.twimg.com/amplify_video/2036937031033778176/vid/avc1/720x1280/nHuAG_820ljEC9zc.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260326070302_twitter_com_Entropy149868_status_2037062755010973722.json"
       ],
-      "last_updated": "2026-08-01T02:47:05",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260326070302/https://video.twimg.com/amplify_video/2036937031033778176/vid/avc1/720x1280/nHuAG_820ljEC9zc.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-01T03:02:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326070302im_/https://video.twimg.com/amplify_video/2036937031033778176/vid/avc1/720x1280/nHuAG_820ljEC9zc.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcc5b630fe0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2042289191699013633/pu/vid/avc1/720x1280/aULLwTPqnfPAdNve.mp4?tag=12": {
       "status": "done",
