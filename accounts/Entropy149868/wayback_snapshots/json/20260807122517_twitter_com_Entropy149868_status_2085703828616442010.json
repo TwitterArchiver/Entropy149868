@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085702949263863808",
+        "3_2085702949263785984",
+        "3_2085702949280620544"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2085703828616442010",
+    "created_at": "2026-08-07T12:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085703828616442010"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "线上"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "纯绿"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "电子女友"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "半绿"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2jWiX0rrce",
+          "end": 84,
+          "expanded_url": "https://x.com/Entropy149868/status/2085703828616442010/photo/1",
+          "media_key": "3_2085702949263863808",
+          "start": 61,
+          "url": "https://t.co/2jWiX0rrce"
+        },
+        {
+          "display_url": "pic.x.com/2jWiX0rrce",
+          "end": 84,
+          "expanded_url": "https://x.com/Entropy149868/status/2085703828616442010/photo/1",
+          "media_key": "3_2085702949263785984",
+          "start": 61,
+          "url": "https://t.co/2jWiX0rrce"
+        },
+        {
+          "display_url": "pic.x.com/2jWiX0rrce",
+          "end": 84,
+          "expanded_url": "https://x.com/Entropy149868/status/2085703828616442010/photo/1",
+          "media_key": "3_2085702949280620544",
+          "start": 61,
+          "url": "https://t.co/2jWiX0rrce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085703828616442010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抱歉我没钱了，来当门槛妹了，支持支付宝口令和赞赏码，帮忙转发谢谢\n#门槛妹 #爸爸活 #线上 #纯绿 #电子女友 #半绿 https://t.co/2jWiX0rrce"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085702949263863808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHnyCXbcAAjcnX.jpg",
+        "width": 970
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085702949263785984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHnyCXaQAAiUhv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2085702949280620544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHnyCbbIAAL2BR.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085702949263863808",
+            "3_2085702949263785984",
+            "3_2085702949280620544"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2085703828616442010",
+        "created_at": "2026-08-07T12:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085703828616442010"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "线上"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "纯绿"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "电子女友"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jWiX0rrce",
+              "end": 84,
+              "expanded_url": "https://x.com/Entropy149868/status/2085703828616442010/photo/1",
+              "media_key": "3_2085702949263863808",
+              "start": 61,
+              "url": "https://t.co/2jWiX0rrce"
+            },
+            {
+              "display_url": "pic.x.com/2jWiX0rrce",
+              "end": 84,
+              "expanded_url": "https://x.com/Entropy149868/status/2085703828616442010/photo/1",
+              "media_key": "3_2085702949263785984",
+              "start": 61,
+              "url": "https://t.co/2jWiX0rrce"
+            },
+            {
+              "display_url": "pic.x.com/2jWiX0rrce",
+              "end": 84,
+              "expanded_url": "https://x.com/Entropy149868/status/2085703828616442010/photo/1",
+              "media_key": "3_2085702949280620544",
+              "start": 61,
+              "url": "https://t.co/2jWiX0rrce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085703828616442010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉我没钱了，来当门槛妹了，支持支付宝口令和赞赏码，帮忙转发谢谢\n#门槛妹 #爸爸活 #线上 #纯绿 #电子女友 #半绿 https://t.co/2jWiX0rrce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "精神病院",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 447,
+          "like_count": 1300,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 597
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

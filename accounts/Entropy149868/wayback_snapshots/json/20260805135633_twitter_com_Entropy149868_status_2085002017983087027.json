@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1977455962853093379"
+      ],
+      "media_source_tweet_id": [
+        "2084718524421775582"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085002017983087027",
+    "created_at": "2026-08-05T13:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085002017983087027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594329207768846337",
+          "start": 3,
+          "username": "stonersvilla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a973cpddcM",
+          "end": 70,
+          "expanded_url": "https://x.com/stonersvilla/status/2084718524421775582/video/1",
+          "media_key": "13_1977455962853093379",
+          "start": 47,
+          "url": "https://t.co/a973cpddcM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085002017983087027",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 539
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084718524421775582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stonersvilla: free joints for the homeless https://t.co/a973cpddcM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30100,
+        "height": 1280,
+        "media_key": "13_1977455962853093379",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1977455962853093379/img/YVzbKhdvOF4Pdq4r.jpg",
+        "public_metrics": {
+          "view_count": 173932
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977455962853093379/vid/avc1/320x568/kcTjCXcwBERnGSGs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977455962853093379/vid/avc1/480x852/xObpjg-d1Cw_WCTX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977455962853093379/vid/avc1/720x1280/V3pVrD4r3--_pCtP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1977455962853093379/pl/Q8tilFW2DO5hzUm-.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1977455962853093379"
+          ]
+        },
+        "author_id": "1594329207768846337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084718524421775582",
+        "created_at": "2026-08-04T19:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084718524421775582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a973cpddcM",
+              "end": 52,
+              "expanded_url": "https://x.com/stonersvilla/status/2084718524421775582/video/1",
+              "media_key": "13_1977455962853093379",
+              "start": 29,
+              "url": "https://t.co/a973cpddcM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084718524421775582",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 363833,
+          "like_count": 5134,
+          "quote_count": 105,
+          "reply_count": 171,
+          "retweet_count": 539
+        },
+        "reply_settings": "everyone",
+        "text": "free joints for the homeless https://t.co/a973cpddcM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1977455962853093379"
+          ],
+          "media_source_tweet_id": [
+            "2084718524421775582"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085002017983087027",
+        "created_at": "2026-08-05T13:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085002017983087027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594329207768846337",
+              "start": 3,
+              "username": "stonersvilla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a973cpddcM",
+              "end": 70,
+              "expanded_url": "https://x.com/stonersvilla/status/2084718524421775582/video/1",
+              "media_key": "13_1977455962853093379",
+              "start": 47,
+              "url": "https://t.co/a973cpddcM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085002017983087027",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 539
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084718524421775582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stonersvilla: free joints for the homeless https://t.co/a973cpddcM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "精神病院",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 449,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T13:58:49.000Z",
+        "description": "Culture • Cannabis • Conversation",
+        "id": "1594329207768846337",
+        "location": "☁️",
+        "name": "Stoner Barbie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052550851563032580/-L25ljd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404293,
+          "following_count": 1,
+          "like_count": 12823,
+          "listed_count": 467,
+          "media_count": 15624,
+          "tweet_count": 27362
+        },
+        "url": "",
+        "username": "stonersvilla",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE",
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

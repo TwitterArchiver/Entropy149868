@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084313261541834752"
+      ],
+      "media_source_tweet_id": [
+        "2084313264133935121"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2084667427670110649",
+    "created_at": "2026-08-04T15:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084667427670110649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912536853464641536",
+          "start": 3,
+          "username": "chudible"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2hEY0Zcscm",
+          "end": 43,
+          "expanded_url": "https://x.com/chudible/status/2084313264133935121/photo/1",
+          "media_key": "3_2084313261541834752",
+          "start": 20,
+          "url": "https://t.co/2hEY0Zcscm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084667427670110649",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1938
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084313264133935121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chudible: Mood. https://t.co/2hEY0Zcscm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_2084313261541834752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOz33kLWQAAqnGh.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084313261541834752"
+          ]
+        },
+        "author_id": "1912536853464641536",
+        "conversation_id": "2084313264133935121",
+        "created_at": "2026-08-03T16:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084313264133935121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hEY0Zcscm",
+              "end": 29,
+              "expanded_url": "https://x.com/chudible/status/2084313264133935121/photo/1",
+              "media_key": "3_2084313261541834752",
+              "start": 6,
+              "url": "https://t.co/2hEY0Zcscm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084313264133935121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3460,
+          "impression_count": 628016,
+          "like_count": 22939,
+          "quote_count": 276,
+          "reply_count": 64,
+          "retweet_count": 1938
+        },
+        "reply_settings": "everyone",
+        "text": "Mood. https://t.co/2hEY0Zcscm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084313261541834752"
+          ],
+          "media_source_tweet_id": [
+            "2084313264133935121"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2084667427670110649",
+        "created_at": "2026-08-04T15:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084667427670110649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912536853464641536",
+              "start": 3,
+              "username": "chudible"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hEY0Zcscm",
+              "end": 43,
+              "expanded_url": "https://x.com/chudible/status/2084313264133935121/photo/1",
+              "media_key": "3_2084313261541834752",
+              "start": 20,
+              "url": "https://t.co/2hEY0Zcscm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084667427670110649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1938
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084313264133935121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chudible: Mood. https://t.co/2hEY0Zcscm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "精神病院",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 449,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 585
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T19:03:36.000Z",
+        "description": "Former Army Ranger Sniper Patriot Wife",
+        "id": "1912536853464641536",
+        "name": "Chud",
+        "pinned_tweet_id": "2008283115731480973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075028736383098880/kCRpo2lJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 68,
+          "like_count": 26739,
+          "listed_count": 6,
+          "media_count": 2323,
+          "tweet_count": 10121
+        },
+        "url": "",
+        "username": "chudible",
+        "verified": false
+      }
+    ]
+  }
+}
