@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2095946556054626552",
+    "created_at": "2026-09-06T08:54:26.000Z",
+    "display_text_range": [
+      39,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096522401148555432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1484488362182467584",
+          "start": 0,
+          "username": "f_fannie427"
+        },
+        {
+          "end": 29,
+          "id": "1619698674917068801",
+          "start": 13,
+          "username": "InfiniteTritium"
+        },
+        {
+          "end": 38,
+          "id": "124619224",
+          "start": 30,
+          "username": "sumidao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096522401148555432",
+    "in_reply_to_user_id": "1484488362182467584",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096492205212848252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@f_fannie427 @InfiniteTritium @sumidao choose life?!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2095946556054626552",
+        "created_at": "2026-09-06T08:54:26.000Z",
+        "display_text_range": [
+          39,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096522401148555432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1484488362182467584",
+              "start": 0,
+              "username": "f_fannie427"
+            },
+            {
+              "end": 29,
+              "id": "1619698674917068801",
+              "start": 13,
+              "username": "InfiniteTritium"
+            },
+            {
+              "end": 38,
+              "id": "124619224",
+              "start": 30,
+              "username": "sumidao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096522401148555432",
+        "in_reply_to_user_id": "1484488362182467584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096492205212848252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@f_fannie427 @InfiniteTritium @sumidao choose life?!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484488362182467584",
+        "conversation_id": "2095946556054626552",
+        "created_at": "2026-09-06T06:54:27.000Z",
+        "display_text_range": [
+          41,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096492205212848252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619698674917068801",
+              "start": 0,
+              "username": "InfiniteTritium"
+            },
+            {
+              "end": 25,
+              "id": "124619224",
+              "start": 17,
+              "username": "sumidao"
+            },
+            {
+              "end": 40,
+              "id": "1891748269853700096",
+              "start": 26,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096492205212848252",
+        "in_reply_to_user_id": "1619698674917068801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096256204570009858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InfiniteTritium @sumidao @Entropy149868 袁正"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2096522401148555432",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088933362153263390",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 435,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-21T11:30:25.000Z",
+        "description": "状态稳定 傻小孩 丑 穷 冒失\nenby    hrt:23.10.3",
+        "id": "1484488362182467584",
+        "is_identity_verified": false,
+        "location": "云",
+        "most_recent_tweet_id": "2096496402230861932",
+        "name": "安宁",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484488362182467584/1770582215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026613117493587969/cKMcsiEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 783,
+          "like_count": 4132,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 856
+        },
+        "url": "",
+        "username": "f_fannie427",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-29T14:08:10.000Z",
+        "description": "UnrealEngine地编兼特效师（学 接 私）｜艺术｜形而上｜理想国｜棱镜｜身外的世界总是模糊的…\n匿↘️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/infinite%20tri…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/infinite%20tritium",
+                "start": 0,
+                "url": "https://t.co/rFRsz40YGj"
+              }
+            ]
+          }
+        },
+        "id": "1619698674917068801",
+        "is_identity_verified": false,
+        "location": "NewMap",
+        "most_recent_tweet_id": "2096432001192796174",
+        "name": "Triton H.",
+        "pinned_tweet_id": "2049368028752875769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619698674917068801/1763338291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916186524884078594/dGmyKGAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 235,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/rFRsz40YGj",
+        "username": "InfiniteTritium",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-20T00:59:38.000Z",
+        "description": "ॐ 🌊 full_trance_ no IG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sumidao",
+                "end": 23,
+                "expanded_url": "https://instagram.com/sumidao",
+                "start": 0,
+                "url": "https://t.co/qxt6Gp9ekn"
+              }
+            ]
+          }
+        },
+        "id": "124619224",
+        "is_identity_verified": false,
+        "location": "São Paulo",
+        "most_recent_tweet_id": "2096429232368837056",
+        "name": "sumidao",
+        "pinned_tweet_id": "2093818886445494546",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124619224/1779915083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064398111414374400/0ROCM4Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13857,
+          "following_count": 6445,
+          "like_count": 89139,
+          "listed_count": 531,
+          "media_count": 13513,
+          "tweet_count": 50413
+        },
+        "url": "https://t.co/qxt6Gp9ekn",
+        "username": "sumidao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
