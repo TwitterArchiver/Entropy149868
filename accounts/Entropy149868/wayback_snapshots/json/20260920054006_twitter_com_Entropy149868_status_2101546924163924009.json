@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101546890550767616"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2101546924163924009",
+    "created_at": "2026-09-20T05:40:06.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T06:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101546924163924009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxR0P4Td0w",
+          "end": 26,
+          "expanded_url": "https://x.com/Entropy149868/status/2101546924163924009/photo/1",
+          "media_key": "3_2101546890550767616",
+          "start": 3,
+          "url": "https://t.co/cxR0P4Td0w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101546924163924009",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101546890550767616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无语 https://t.co/cxR0P4Td0w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101546890550767616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSoxwzIa8AAkIgL.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101546890550767616"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2101546924163924009",
+        "created_at": "2026-09-20T05:40:06.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101546924163924009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxR0P4Td0w",
+              "end": 26,
+              "expanded_url": "https://x.com/Entropy149868/status/2101546924163924009/photo/1",
+              "media_key": "3_2101546890550767616",
+              "start": 3,
+              "url": "https://t.co/cxR0P4Td0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101546924163924009",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101546890550767616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无语 https://t.co/cxR0P4Td0w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2101546924163924009",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088917530966741225",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 445,
+          "like_count": 1641,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 726
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

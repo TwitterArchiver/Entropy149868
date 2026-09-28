@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2100965741738750034",
+    "created_at": "2026-09-18T22:05:00.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T23:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101070009422483612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048683684191154176",
+          "start": 0,
+          "username": "lsdprettyboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101070009422483612",
+    "in_reply_to_user_id": "2048683684191154176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100965741738750034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lsdprettyboy 那么就注射！🤩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2100965741738750034",
+        "created_at": "2026-09-18T22:05:00.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T23:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101070009422483612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048683684191154176",
+              "start": 0,
+              "username": "lsdprettyboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101070009422483612",
+        "in_reply_to_user_id": "2048683684191154176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100965741738750034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lsdprettyboy 那么就注射！🤩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048683684191154176",
+        "conversation_id": "2100965741738750034",
+        "created_at": "2026-09-18T15:10:41.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100965741738750034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100965741738750034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 412,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要鼻吸1161，吸了五天鼻黏膜坏了。以前从来不流鼻血的人现在一天要流好好几次鼻血。一直流鼻涕擦不完导致鼻子人中干得全破了。而且戒断特别难受特别恶心。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2101070009422483612",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088917530966741225",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 442,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T08:41:44.000Z",
+        "description": "xwx｜我脑子有问题\n🚪 58｜88 没区别，你比较慷慨可以给我更多",
+        "id": "2048683684191154176",
+        "is_identity_verified": false,
+        "location": "NOT FOUND",
+        "most_recent_tweet_id": "2101068340580286795",
+        "name": "豆包我全家活了",
+        "pinned_tweet_id": "2088934895028666697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048683684191154176/1786864787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088889126976417792/e9A6Db_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 144,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "lsdprettyboy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

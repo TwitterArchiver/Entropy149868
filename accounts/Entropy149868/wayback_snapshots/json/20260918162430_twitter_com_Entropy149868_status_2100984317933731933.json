@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2100878590909059398",
+    "created_at": "2026-09-18T16:24:30.000Z",
+    "display_text_range": [
+      21,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T17:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100984317933731933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1991149145994776577",
+          "start": 0,
+          "username": "Cashh3gx"
+        },
+        {
+          "end": 20,
+          "id": "2058110817661513729",
+          "start": 10,
+          "username": "Sayjusttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100984317933731933",
+    "in_reply_to_user_id": "1991149145994776577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100981032275390927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cashh3gx @Sayjusttt 不是啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2100878590909059398",
+        "created_at": "2026-09-18T16:24:30.000Z",
+        "display_text_range": [
+          21,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100984317933731933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1991149145994776577",
+              "start": 0,
+              "username": "Cashh3gx"
+            },
+            {
+              "end": 20,
+              "id": "2058110817661513729",
+              "start": 10,
+              "username": "Sayjusttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100984317933731933",
+        "in_reply_to_user_id": "1991149145994776577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100981032275390927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cashh3gx @Sayjusttt 不是啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991149145994776577",
+        "conversation_id": "2100878590909059398",
+        "created_at": "2026-09-18T16:11:27.000Z",
+        "display_text_range": [
+          26,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100981032275390927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058110817661513729",
+              "start": 0,
+              "username": "Sayjusttt"
+            },
+            {
+              "end": 25,
+              "id": "1891748269853700096",
+              "start": 11,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100981032275390927",
+        "in_reply_to_user_id": "2058110817661513729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2750,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100906930533282257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sayjusttt @Entropy149868 Pr是元素周期表的镨吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2100984317933731933",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088917530966741225",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 441,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-19T14:19:33.000Z",
+        "description": "",
+        "id": "1991149145994776577",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100981032275390927",
+        "name": "Cash",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991149500883156993/CkUz9XIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "Cashh3gx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T09:01:34.000Z",
+        "description": "可以找我扩列v🫳🏻🫳🏻",
+        "id": "2058110817661513729",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100906930533282257",
+        "name": "Reiii",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058110817661513729/1779554567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058227097437433857/DC253LVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 13,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Sayjusttt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

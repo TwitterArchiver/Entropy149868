@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2099476871834665413",
+    "created_at": "2026-09-14T14:09:45.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099500855477346673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966022890287149060",
+          "start": 0,
+          "username": "7kever96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099500855477346673",
+    "in_reply_to_user_id": "1966022890287149060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099476871834665413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7kever96 这不是在国内吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2099476841019125760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLXEDsasAAzUfm.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2099476871834665413",
+        "created_at": "2026-09-14T14:09:45.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099500855477346673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966022890287149060",
+              "start": 0,
+              "username": "7kever96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099500855477346673",
+        "in_reply_to_user_id": "1966022890287149060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099476871834665413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7kever96 这不是在国内吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099476841019125760"
+          ]
+        },
+        "author_id": "1966022890287149060",
+        "conversation_id": "2099476871834665413",
+        "created_at": "2026-09-14T12:34:27.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099476871834665413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cskUgmjzgx",
+              "end": 41,
+              "expanded_url": "https://x.com/7kever96/status/2099476871834665413/photo/1",
+              "media_key": "3_2099476841019125760",
+              "start": 18,
+              "url": "https://t.co/cskUgmjzgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099476871834665413",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099476841019125760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人救济一下无家可归的路边儿童 https://t.co/cskUgmjzgx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2099500855477346673",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088917530966741225",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 439,
+          "like_count": 1562,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 687
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-11T06:16:16.000Z",
+        "description": "good boy",
+        "id": "1966022890287149060",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099476871834665413",
+        "name": "克克煙",
+        "pinned_tweet_id": "2037484400892613056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966022890287149060/1786086281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085615285663670272/Fu1JkVD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6083,
+          "following_count": 68,
+          "like_count": 228,
+          "listed_count": 11,
+          "media_count": 17,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "7kever96",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

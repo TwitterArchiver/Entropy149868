@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2101110582904775052",
+    "created_at": "2026-09-19T00:46:14.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T01:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101110582904775052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Entropy149868/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/Entropy149868/status/2100878590909059398",
+          "start": 52,
+          "url": "https://t.co/dyAQvJFBrP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101110582904775052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100878590909059398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人需要普瑞吗？虽说闲鱼上有，但是可能是钓鱼的。我也打算卖普瑞了，是原粉，用起来比普瑞巴林胶囊还带劲哦 https://t.co/dyAQvJFBrP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100878576317038592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfR7ymbAAAiUb_.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2101110582904775052",
+        "created_at": "2026-09-19T00:46:14.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T01:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101110582904775052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Entropy149868/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Entropy149868/status/2100878590909059398",
+              "start": 52,
+              "url": "https://t.co/dyAQvJFBrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101110582904775052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100878590909059398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人需要普瑞吗？虽说闲鱼上有，但是可能是钓鱼的。我也打算卖普瑞了，是原粉，用起来比普瑞巴林胶囊还带劲哦 https://t.co/dyAQvJFBrP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100878576317038592"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2100878590909059398",
+        "created_at": "2026-09-18T09:24:23.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100878590909059398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g80aYdaCoU",
+              "end": 39,
+              "expanded_url": "https://x.com/Entropy149868/status/2100878590909059398/photo/1",
+              "media_key": "3_2100878576317038592",
+              "start": 16,
+              "url": "https://t.co/g80aYdaCoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100878590909059398",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100878576317038592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 449,
+          "impression_count": 2868886,
+          "like_count": 1435,
+          "quote_count": 5,
+          "reply_count": 668,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "闲鱼不愧是中国暗网，有卖pr的 https://t.co/g80aYdaCoU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2101110582904775052",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088917530966741225",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 443,
+          "like_count": 1638,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 718
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

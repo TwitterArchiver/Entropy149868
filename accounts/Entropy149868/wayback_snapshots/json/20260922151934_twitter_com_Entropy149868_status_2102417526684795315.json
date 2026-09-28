@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2101951676215365871",
+    "created_at": "2026-09-22T15:19:34.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T16:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102417526684795315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016175327069011971",
+          "start": 0,
+          "username": "shanhu_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102417526684795315",
+    "in_reply_to_user_id": "2016175327069011971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101951676215365871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanhu_mi 《美丽新世界》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2101951676215365871",
+        "created_at": "2026-09-22T15:19:34.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102417526684795315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016175327069011971",
+              "start": 0,
+              "username": "shanhu_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102417526684795315",
+        "in_reply_to_user_id": "2016175327069011971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101951676215365871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanhu_mi 《美丽新世界》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016175327069011971",
+        "conversation_id": "2101951676215365871",
+        "created_at": "2026-09-21T08:28:26.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101951676215365871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101951676215365871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4850,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下全世界的人都开始嗑药没有战争也没有争吵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2102417526684795315",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088917530966741225",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 447,
+          "like_count": 1651,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 729
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:44:09.000Z",
+        "description": "叫我板栗就好！\n年龄你猜。\n哦滴。zc。抽烟 \n我比较喜欢自言自语 \n欢迎同类互fo呀 私信说一下就好 ！\n🚪52好友位和圈圈\n🚪88 被动聊天\n备用小号@BanLi_mi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "BanLi_mi"
+              }
+            ]
+          }
+        },
+        "id": "2016175327069011971",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102392803150254437",
+        "name": "T^",
+        "pinned_tweet_id": "2088638181327712668",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016175327069011971/1788343599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095091022959394817/kup8bJ7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 208,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "shanhu_mi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

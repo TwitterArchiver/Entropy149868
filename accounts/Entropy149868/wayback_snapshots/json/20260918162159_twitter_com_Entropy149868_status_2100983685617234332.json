@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2100878590909059398",
+    "created_at": "2026-09-18T16:21:59.000Z",
+    "display_text_range": [
+      14,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T17:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100983685617234332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1414782432516050945",
+          "start": 0,
+          "username": "Owen01741350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100983685617234332",
+    "in_reply_to_user_id": "1414782432516050945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100982588051767536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Owen01741350 我错了，我不应该搬到外网来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 479,
+        "media_key": "3_2100982573157793794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgwhNBbQAItbTJ.jpg",
+        "width": 1811
+      },
+      {
+        "height": 2176,
+        "media_key": "3_2100982580132921344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgwhnAbQAAUF6b.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2100878590909059398",
+        "created_at": "2026-09-18T16:21:59.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100983685617234332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1414782432516050945",
+              "start": 0,
+              "username": "Owen01741350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100983685617234332",
+        "in_reply_to_user_id": "1414782432516050945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100982588051767536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owen01741350 我错了，我不应该搬到外网来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100982573157793794",
+            "3_2100982580132921344"
+          ]
+        },
+        "author_id": "1414782432516050945",
+        "conversation_id": "2100878590909059398",
+        "created_at": "2026-09-18T16:17:38.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100982588051767536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ySgittcVkT",
+              "end": 47,
+              "expanded_url": "https://x.com/Owen01741350/status/2100982588051767536/photo/1",
+              "media_key": "3_2100982573157793794",
+              "start": 24,
+              "url": "https://t.co/ySgittcVkT"
+            },
+            {
+              "display_url": "pic.x.com/ySgittcVkT",
+              "end": 47,
+              "expanded_url": "https://x.com/Owen01741350/status/2100982588051767536/photo/1",
+              "media_key": "3_2100982580132921344",
+              "start": 24,
+              "url": "https://t.co/ySgittcVkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100982588051767536",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100982573157793794"
+          },
+          {
+            "media_key": "3_2100982580132921344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 861,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100878590909059398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 速报已被拿下🤫😭 https://t.co/ySgittcVkT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2100983685617234332",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088917530966741225",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 441,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 703
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-13T03:03:34.000Z",
+        "description": "Chinese ,English ok",
+        "id": "1414782432516050945",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100982588051767536",
+        "name": "OwenSun 🎀",
+        "pinned_tweet_id": "1748523088135049422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414782432516050945/1701530636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730971069228728320/6-ItNrVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 279,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "Owen01741350",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

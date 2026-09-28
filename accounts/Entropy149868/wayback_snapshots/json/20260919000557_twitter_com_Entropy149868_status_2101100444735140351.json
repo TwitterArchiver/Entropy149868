@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101100282671403008"
+      ]
+    },
+    "author_id": "1891748269853700096",
+    "conversation_id": "2101100444735140351",
+    "created_at": "2026-09-19T00:05:57.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T01:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101100444735140351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bp70nYNEq5",
+          "end": 59,
+          "expanded_url": "https://x.com/Entropy149868/status/2101100444735140351/photo/1",
+          "media_key": "3_2101100282671403008",
+          "start": 36,
+          "url": "https://t.co/Bp70nYNEq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101100444735140351",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101100282671403008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药效已经过了，但是瞳孔还是小的，话说300毫克酸奶葡萄这个剂量是多了吗 https://t.co/Bp70nYNEq5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_2101100282671403008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSibkzIaEAAzjtH.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101100282671403008"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2101100444735140351",
+        "created_at": "2026-09-19T00:05:57.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T01:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101100444735140351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bp70nYNEq5",
+              "end": 59,
+              "expanded_url": "https://x.com/Entropy149868/status/2101100444735140351/photo/1",
+              "media_key": "3_2101100282671403008",
+              "start": 36,
+              "url": "https://t.co/Bp70nYNEq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101100444735140351",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101100282671403008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药效已经过了，但是瞳孔还是小的，话说300毫克酸奶葡萄这个剂量是多了吗 https://t.co/Bp70nYNEq5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2101100444735140351",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088917530966741225",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 443,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1891748269853700096",
+    "conversation_id": "2101661152044593592",
+    "created_at": "2026-09-20T13:14:00.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T14:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101661152044593592"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101661152044593592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很痛苦，我近期在滥用阿片类物质，我太痛苦，可能是我有点频繁了，我这两天没用药，我就像是发烧了一样，发冷。我很抑郁，我的抑郁是无法用语言形容的，我今天睡了十八个小时，做了很多有趣的梦。但醒来梦是一场空，我醒着没有任何意义，除了痛苦，什么都没。在梦里才能梦见到有趣的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2101661152044593592",
+        "created_at": "2026-09-20T13:14:00.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101661152044593592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101661152044593592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很痛苦，我近期在滥用阿片类物质，我太痛苦，可能是我有点频繁了，我这两天没用药，我就像是发烧了一样，发冷。我很抑郁，我的抑郁是无法用语言形容的，我今天睡了十八个小时，做了很多有趣的梦。但醒来梦是一场空，我醒着没有任何意义，除了痛苦，什么都没。在梦里才能梦见到有趣的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kōbe-shi, Hyōgo, Japan",
+              "geo": {
+                "coordinates": [
+                  135.183,
+                  34.6913
+                ],
+                "type": "Point"
+              },
+              "locality": "Kōbe-shi",
+              "region": "Hyōgo"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2101661152044593592",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088917530966741225",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 445,
+          "like_count": 1642,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
